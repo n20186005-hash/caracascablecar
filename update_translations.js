@@ -1,4 +1,7 @@
-export type Locale = "zh" | "en" | "es";
+const fs = require('fs');
+const path = require('path');
+
+const translationsCode = `export type Locale = "zh" | "en" | "es";
 
 export const translations = {
   zh: {
@@ -23,9 +26,9 @@ export const translations = {
     },
     about: {
       title: "深度科普：你所不知道的阿维拉山与缆车",
-      p1: "1. 名字背后的原住民记忆\n这座分隔了加拉加斯谷地与加勒比海的雄伟山脉，西班牙殖民时期被称为 Cerro El Ávila。而它现在的官方名称 Warairarepano（马拉韦雷帕诺）源自加拉加斯原住民（加拉加斯印第安人）的语言，意为“貘（Tapir）的故乡”或“广阔的山脉”。这座山不仅是城市的天然肺叶，更是委内瑞拉本土文化的象征。",
-      p2: "2. 跨越时代的工程地标\n马拉韦雷帕诺缆车系统于1956年首次建成，在当时是世界上最长、最先进的客运缆车系统之一。它是一项卓越的山地工程，旨在将拥挤的加拉加斯谷地与高山自然环境直接相连。经过2007年的大规模现代化改造，如今的缆车系统采用了更安全的双轨技术，全长约3.5公里，仅需15-20分钟即可完成近1000米的海拔爬升。",
-      p3: "4. 从都市到云雾林的垂直生态\n乘坐缆车不仅是一次交通位移，更是一堂生动的垂直生态课。随着海拔的升高，游客可以明显观察到植被的演变——从谷地的干燥灌木丛，逐渐过渡到山顶常年被云雾缭绕的热带高山云雾林。这里是数百种鸟类、兰花和特有昆虫的栖息地。",
+      p1: "1. 名字背后的原住民记忆\\n这座分隔了加拉加斯谷地与加勒比海的雄伟山脉，西班牙殖民时期被称为 Cerro El Ávila。而它现在的官方名称 Warairarepano（马拉韦雷帕诺）源自加拉加斯原住民（加拉加斯印第安人）的语言，意为“貘（Tapir）的故乡”或“广阔的山脉”。这座山不仅是城市的天然肺叶，更是委内瑞拉本土文化的象征。",
+      p2: "2. 跨越时代的工程地标\\n马拉韦雷帕诺缆车系统于1956年首次建成，在当时是世界上最长、最先进的客运缆车系统之一。它是一项卓越的山地工程，旨在将拥挤的加拉加斯谷地与高山自然环境直接相连。经过2007年的大规模现代化改造，如今的缆车系统采用了更安全的双轨技术，全长约3.5公里，仅需15-20分钟即可完成近1000米的海拔爬升。",
+      p3: "4. 从都市到云雾林的垂直生态\\n乘坐缆车不仅是一次交通位移，更是一堂生动的垂直生态课。随着海拔的升高，游客可以明显观察到植被的演变——从谷地的干燥灌木丛，逐渐过渡到山顶常年被云雾缭绕的热带高山云雾林。这里是数百种鸟类、兰花和特有昆虫的栖息地。",
       highlights: {
         title: "景点速览 (Quick Facts)",
         items: [
@@ -161,9 +164,9 @@ export const translations = {
     },
     about: {
       title: "In-Depth: Ávila Mountain & The Cable Car",
-      p1: "1. Indigenous Memory Behind the Name\nThis majestic mountain range separating the Caracas valley from the Caribbean Sea was known as Cerro El Ávila during Spanish colonization. Its current official name, Warairarepano, comes from the language of the indigenous Caracas people, meaning 'Home of the Tapir' or 'Vast Mountains.' This mountain is not only the city's natural lung but also a symbol of Venezuelan native culture.",
-      p2: "2. An Engineering Landmark Across Eras\nThe Warairarepano cable car system was first built in 1956 and was one of the longest and most advanced passenger cable car systems in the world at the time. It is an outstanding piece of mountain engineering designed to connect the crowded Caracas valley directly with the high-altitude natural environment. Following a major modernization in 2007, the current system uses safer dual-track technology. Spanning approximately 3.5 kilometers, it climbs nearly 1,000 meters in elevation in just 15-20 minutes.",
-      p3: "4. Vertical Ecology: From City to Cloud Forest\nRiding the cable car is not just a transit journey, but a vivid lesson in vertical ecology. As the altitude increases, visitors can clearly observe the evolution of vegetation—from dry shrubs in the valley to the tropical high-altitude cloud forest (Bosque Nublado) at the summit, which is perpetually shrouded in mist. This area is home to hundreds of bird species, orchids, and endemic insects.",
+      p1: "1. Indigenous Memory Behind the Name\\nThis majestic mountain range separating the Caracas valley from the Caribbean Sea was known as Cerro El Ávila during Spanish colonization. Its current official name, Warairarepano, comes from the language of the indigenous Caracas people, meaning 'Home of the Tapir' or 'Vast Mountains.' This mountain is not only the city's natural lung but also a symbol of Venezuelan native culture.",
+      p2: "2. An Engineering Landmark Across Eras\\nThe Warairarepano cable car system was first built in 1956 and was one of the longest and most advanced passenger cable car systems in the world at the time. It is an outstanding piece of mountain engineering designed to connect the crowded Caracas valley directly with the high-altitude natural environment. Following a major modernization in 2007, the current system uses safer dual-track technology. Spanning approximately 3.5 kilometers, it climbs nearly 1,000 meters in elevation in just 15-20 minutes.",
+      p3: "4. Vertical Ecology: From City to Cloud Forest\\nRiding the cable car is not just a transit journey, but a vivid lesson in vertical ecology. As the altitude increases, visitors can clearly observe the evolution of vegetation—from dry shrubs in the valley to the tropical high-altitude cloud forest (Bosque Nublado) at the summit, which is perpetually shrouded in mist. This area is home to hundreds of bird species, orchids, and endemic insects.",
       highlights: {
         title: "Quick Facts",
         items: [
@@ -299,9 +302,9 @@ export const translations = {
     },
     about: {
       title: "Ciencia en Profundidad: El Ávila y el Teleférico",
-      p1: "1. La Memoria Indígena Detrás del Nombre\nEsta majestuosa cordillera que separa el valle de Caracas del Mar Caribe fue conocida como Cerro El Ávila durante la colonización española. Su nombre oficial actual, Warairarepano, proviene de la lengua de los indígenas de Caracas y significa 'Hogar del Tapir' o 'Sierra Grande'. Esta montaña no solo es el pulmón natural de la ciudad, sino también un símbolo de la cultura originaria venezolana.",
-      p2: "2. Un Hito de Ingeniería de Diferentes Épocas\nEl sistema de teleférico Warairarepano fue inaugurado en 1956 y era uno de los sistemas de teleférico de pasajeros más largos y avanzados del mundo en ese momento. Es una obra de ingeniería de montaña excepcional diseñada para conectar directamente el concurrido valle de Caracas con el entorno natural de alta montaña. Tras una importante modernización en 2007, el sistema actual utiliza tecnología de doble vía más segura. Con una longitud de aproximadamente 3,5 kilómetros, asciende casi 1.000 metros de altitud en solo 15-20 minutos.",
-      p3: "4. Ecología Vertical: De la Ciudad al Bosque Nublado\nViajar en el teleférico no es solo un desplazamiento de transporte, sino una vívida lección de ecología vertical. A medida que aumenta la altitud, los visitantes pueden observar claramente la evolución de la vegetación, desde los arbustos secos del valle hasta el bosque nublado tropical de alta montaña en la cima, permanentemente envuelto en neblina. Esta área es el hábitat de cientos de especies de aves, orquídeas e insectos endémicos.",
+      p1: "1. La Memoria Indígena Detrás del Nombre\\nEsta majestuosa cordillera que separa el valle de Caracas del Mar Caribe fue conocida como Cerro El Ávila durante la colonización española. Su nombre oficial actual, Warairarepano, proviene de la lengua de los indígenas de Caracas y significa 'Hogar del Tapir' o 'Sierra Grande'. Esta montaña no solo es el pulmón natural de la ciudad, sino también un símbolo de la cultura originaria venezolana.",
+      p2: "2. Un Hito de Ingeniería de Diferentes Épocas\\nEl sistema de teleférico Warairarepano fue inaugurado en 1956 y era uno de los sistemas de teleférico de pasajeros más largos y avanzados del mundo en ese momento. Es una obra de ingeniería de montaña excepcional diseñada para conectar directamente el concurrido valle de Caracas con el entorno natural de alta montaña. Tras una importante modernización en 2007, el sistema actual utiliza tecnología de doble vía más segura. Con una longitud de aproximadamente 3,5 kilómetros, asciende casi 1.000 metros de altitud en solo 15-20 minutos.",
+      p3: "4. Ecología Vertical: De la Ciudad al Bosque Nublado\\nViajar en el teleférico no es solo un desplazamiento de transporte, sino una vívida lección de ecología vertical. A medida que aumenta la altitud, los visitantes pueden observar claramente la evolución de la vegetación, desde los arbustos secos del valle hasta el bosque nublado tropical de alta montaña en la cima, permanentemente envuelto en neblina. Esta área es el hábitat de cientos de especies de aves, orquídeas e insectos endémicos.",
       highlights: {
         title: "Datos Rápidos (Quick Facts)",
         items: [
@@ -454,3 +457,7 @@ export type Translations = {
   contact: { title: string; phone: string; phoneNote: string };
   footer: { text: string; made: string; linksTitle: string; links: LinkItem[] };
 };
+\`;
+
+fs.writeFileSync(path.join(__dirname, 'src', 'i18n', 'translations.ts'), translationsCode);
+console.log('Translations updated.');

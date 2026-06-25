@@ -103,15 +103,16 @@ function About() {
         <div className="section-divider" />
       </ScrollReveal>
       <ScrollReveal>
-        <p className="about-text">{t.about.p1}</p>
-        <p className="about-text">{t.about.p2}</p>
+        <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p1}</p>
+        <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p2}</p>
+        <p className="about-text" style={{ whiteSpace: "pre-line" }}>{t.about.p3}</p>
       </ScrollReveal>
       <ScrollReveal>
         <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.4rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem", marginTop: "2rem" }}>
-          {(t as any).about?.highlights?.title || "亮点"}
+          {t.about.highlights.title}
         </h3>
         <div className="highlights-grid">
-          {((t as any).about?.highlights?.items || []).map((item: string, i: number) => (
+          {t.about.highlights.items.map((item: string, i: number) => (
             <div className="highlight-item" key={i}>
               <div className="highlight-icon" />
               <span className="highlight-text">{item}</span>
@@ -121,11 +122,11 @@ function About() {
       </ScrollReveal>
       <ScrollReveal>
         <div style={{ marginTop: "2rem", padding: "1.5rem", background: "#fff", borderRadius: "2px", boxShadow: "0 2px 12px rgba(0,0,0,0.04)" }}>
-          <h4 style={{ fontFamily: "var(--font-display)", fontSize: "1.1rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "0.5rem" }}>
-            {(t as any).about?.management?.title || "景点管理"}
+          <h4 style={{ fontFamily: "var(--font-display)", fontSize: "1.1rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "0.5rem", whiteSpace: "pre-line" }}>
+            {t.about.management.title}
           </h4>
-          <p style={{ fontSize: "0.9rem", lineHeight: "1.7", color: "var(--color-earth-soft)" }}>
-            {(t as any).about?.management?.content || ""}
+          <p style={{ fontSize: "0.9rem", lineHeight: "1.7", color: "var(--color-earth-soft)", whiteSpace: "pre-line" }}>
+            {t.about.management.content}
           </p>
         </div>
       </ScrollReveal>
@@ -178,17 +179,16 @@ function Visiting() {
 function Transportation() {
   const { t } = useLang();
   const transportOptions = [
-    { icon: "🚡", title: (t as any).transportation?.toStation?.title || "前往车站", content: (t as any).transportation?.toStation?.content || "" },
-    { icon: "🚗", title: (t as any).transportation?.selfDrive?.title || "自驾前往", content: (t as any).transportation?.selfDrive?.content || "" },
-    { icon: "🚌", title: (t as any).transportation?.publicTransport?.title || "公共交通", content: (t as any).transportation?.publicTransport?.content || "" },
-    { icon: "🏔️", title: (t as any).transportation?.topActivities?.title || "山顶活动", content: (t as any).transportation?.topActivities?.content || "" },
+    { icon: "🚡", title: t.transportation.toStation.title, content: t.transportation.toStation.content },
+    { icon: "🚌", title: t.transportation.publicTransport.title, content: t.transportation.publicTransport.content },
+    { icon: "🚗", title: t.transportation.selfDrive.title, content: t.transportation.selfDrive.content },
   ];
 
   return (
     <section id="transportation" className="section">
       <ScrollReveal>
         <p className="section-label">03</p>
-        <h2 className="section-title">{(t as any).transportation?.title || "交通方式"}</h2>
+        <h2 className="section-title">{t.transportation.title}</h2>
         <div className="section-divider" />
       </ScrollReveal>
       <ScrollReveal>
@@ -251,7 +251,7 @@ function Gallery() {
     <section id="gallery" className="section">
       <ScrollReveal>
         <p className="section-label">05</p>
-        <h2 className="section-title">{(t as any).gallery?.title || "Photo Gallery"}</h2>
+        <h2 className="section-title">{t.gallery.title}</h2>
         <div className="section-divider" />
       </ScrollReveal>
       <ScrollReveal>
@@ -266,7 +266,7 @@ function Gallery() {
       <ScrollReveal>
         <div style={{ textAlign: "center", marginTop: "2rem" }}>
           <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="google-maps-btn">
-            {(t as any).gallery?.viewMore || "在 Google Maps 查看更多相片"}
+            {t.gallery.viewMore}
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M7 17L17 7M17 7H7M17 7V17" />
             </svg>
@@ -292,8 +292,8 @@ function Reviews() {
     <section id="reviews" className="section">
       <ScrollReveal>
         <p className="section-label">06</p>
-        <h2 className="section-title">{(t as any).reviews?.title || "Visitor Reviews"}</h2>
-        <p className="section-subtitle">{(t as any).reviews?.subtitle || "Real reviews from Google Maps"}</p>
+        <h2 className="section-title">{t.reviews.title}</h2>
+        <p className="section-subtitle">{t.reviews.subtitle}</p>
         <div className="section-divider" />
       </ScrollReveal>
       <ScrollReveal>
@@ -324,7 +324,7 @@ function Reviews() {
       <ScrollReveal>
         <div style={{ textAlign: "center", marginTop: "2rem" }}>
           <a href={MAPS_URL} target="_blank" rel="noopener noreferrer" className="google-maps-btn">
-            {(t as any).reviews?.viewMore || "在 Google Maps 查看更多评价"}
+            {t.reviews.viewMore}
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M7 17L17 7M17 7H7M17 7V17" />
             </svg>
@@ -339,15 +339,15 @@ function FAQ() {
   const { t } = useLang();
   const [expandedIndex, setExpandedIndex] = useState<number | null>(null);
 
-  const faqItems = (t as any).faq?.items || [];
+  const faqItems = t.faq.items;
 
   return (
     <section id="faq" style={{ background: "linear-gradient(180deg, var(--color-cream) 0%, #e8e2d6 100%)" }}>
       <div className="section">
         <ScrollReveal>
           <p className="section-label">07</p>
-          <h2 className="section-title">{(t as any).faq?.title || "Frequently Asked Questions"}</h2>
-          <p className="section-subtitle">{(t as any).faq?.subtitle || "Everything you need to know"}</p>
+          <h2 className="section-title">{t.faq.title}</h2>
+          <p className="section-subtitle">{t.faq.subtitle}</p>
           <div className="section-divider" />
         </ScrollReveal>
         <ScrollReveal>
@@ -427,7 +427,7 @@ function Location() {
 
 function Contact() {
   const { t } = useLang();
-  const phone = (t as any).contact?.phone || "+58 212 901 5555";
+  const phone = t.contact.phone;
   const cleanPhone = phone.replace(/\s/g, "");
   return (
     <section className="section" style={{ paddingTop: 0, paddingBottom: "4rem" }}>
@@ -436,7 +436,7 @@ function Contact() {
           <div className="contact-icon">📞</div>
           <div>
             <a href={`tel:${cleanPhone}`} className="contact-phone">{phone}</a>
-            <p className="contact-note">{(t as any).contact?.phoneNote || ""}</p>
+            <p className="contact-note">{t.contact.phoneNote}</p>
           </div>
         </div>
       </ScrollReveal>
