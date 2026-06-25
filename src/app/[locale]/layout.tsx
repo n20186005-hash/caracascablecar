@@ -19,7 +19,10 @@ const dmSans = DM_Sans({
 
 const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "caracascablecar.com"}`;
 
-export function generateMetadata({ params }: { params: { locale: string } }): Metadata {
+export async function generateMetadata(
+  { params }: { params: Promise<{ locale: string }> }
+): Promise<Metadata> {
+  const { locale } = await params;
   return {
     metadataBase: new URL(baseUrl),
     title: {
@@ -49,9 +52,9 @@ export function generateMetadata({ params }: { params: { locale: string } }): Me
     },
     openGraph: {
       type: "website",
-      locale: params.locale === 'es' ? 'es_VE' : params.locale === 'zh' ? 'zh_CN' : 'en_US',
-      alternateLocale: ["en_US", "es_VE", "zh_CN"].filter(l => !l.startsWith(params.locale)),
-      url: `${baseUrl}/${params.locale}`,
+      locale: locale === 'es' ? 'es_VE' : locale === 'zh' ? 'zh_CN' : 'en_US',
+      alternateLocale: ["en_US", "es_VE", "zh_CN"].filter(l => !l.startsWith(locale)),
+      url: `${baseUrl}/${locale}`,
       title: "Warairarepano Cable Car — Caracas, Venezuela",
       description:
         "A travel guide to the Warairarepano Cable Car in Caracas, Venezuela. Experience breathtaking views from the Ávila mountain summit.",
@@ -84,7 +87,7 @@ export function generateMetadata({ params }: { params: { locale: string } }): Me
       },
     },
     alternates: {
-      canonical: `/${params.locale}`,
+      canonical: `/${locale}`,
       languages: {
         "en": "/en",
         "es": "/es",
@@ -104,15 +107,16 @@ export function generateStaticParams() {
   return [{ locale: "es" }, { locale: "en" }, { locale: "zh" }];
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
   params,
 }: Readonly<{
   children: React.ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }>) {
+  const { locale } = await params;
   return (
-    <html lang={params.locale} className={`${cormorant.variable} ${dmSans.variable}`}>
+    <html lang={locale} className={`${cormorant.variable} ${dmSans.variable}`}>
       <body>{children}</body>
     </html>
   );

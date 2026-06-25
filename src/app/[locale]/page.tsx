@@ -475,7 +475,8 @@ function Footer() {
   );
 }
 
-export default function Home({ params }: { params: { locale: string } }) {
+export default function Home(props: { params: Promise<{ locale: string }> }) {
+  const params = React.use(props.params);
   return (
     <LangProvider initialLocale={params.locale as any}>
       <Nav />
