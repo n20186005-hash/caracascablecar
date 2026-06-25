@@ -67,20 +67,61 @@ export const translations = {
       },
     },
     transportation: {
-      title: "交通物流：如何抵达起点站",
+      title: "交通物流：如何抵达马拉佩雷斯起点站",
       airport: {
-        title: "从机场出发 (CCS)",
-        content: "从机场到缆车站全程约 30 公里，建议优先选择官方出租车或网约车。",
+        title: "从机场出发 (CCS：迈克蒂亚国际机场)",
+        content: "从机场到马拉佩雷斯缆车站全程约 30 公里，穿越多山地形。为了确保安全和高效，请参考以下详细步骤：",
         options: [
-          { name: "官方机场出租车", time: "45-60 分钟", price: "30-50 美元", note: "最推荐。直达缆车站，安全可靠。" },
-          { name: "网约车 (Ridery / Yummy)", time: "45-60 分钟", price: "25-40 美元", note: "需提前下载App，明码标价。" },
-          { name: "机场大巴转乘", time: "1.5-2 小时", price: "10 美元以内", note: "适合背包客。乘大巴至市区后再打车。" }
+          {
+            name: "选项 A：官方机场出租车（最推荐）",
+            price: "$30 - $50 美元",
+            time: "45 - 60 分钟",
+            steps: [
+              "第 1 步：提取行李后，请勿跟随主动搭讪的私人司机走出航站楼。",
+              "第 2 步：在国际到达大厅内部，寻找官方认证的出租车柜台（通常提供黑色 SUV 或带有官方标识的轿车）。",
+              "第 3 步：在柜台购票或确认价格，明确告知目的地为：“Estación Teleférico Maripérez”（马拉佩雷斯缆车站）。",
+              "第 4 步：凭票跟随指定司机前往专用停车位上车，直达缆车站入口。"
+            ]
+          },
+          {
+            name: "选项 B：网约车服务 (Ridery / Yummy)",
+            price: "$25 - $40 美元",
+            time: "45 - 60 分钟",
+            steps: [
+              "第 1 步：出发前在手机上下载委内瑞拉本土网约车 App：Ridery 或 Yummy Rides。",
+              "第 2 步：连接机场 Wi-Fi 或使用漫游网络，在 App 中将目的地设置为“Teleférico de Caracas (Estación Maripérez)”。",
+              "第 3 步：确认订单后，在 App 指定的航站楼出口处与司机碰面。"
+            ]
+          },
+          {
+            name: "选项 C：机场大巴 + 城市出租车",
+            price: "$10 美元以内",
+            time: "1.5 - 2 小时",
+            steps: [
+              "第 1 步：在机场出口乘坐官方 UCAMC 机场大巴，前往加拉加斯市区（终点通常在 Parque Central 或 Gato Negro 附近）。",
+              "第 2 步：抵达市区下车点后，通过网约车 App 或在路边呼叫正规的城市出租车（车顶有 Taxi 标志）。",
+              "第 3 步：前往缆车站（大巴下车点距离缆车站仍有约 10-15 分钟车程）。"
+            ]
+          }
         ]
       },
       city: {
-        title: "从加拉加斯市区出发",
-        content: "乘坐地铁1号线至 Plaza Venezuela 或 Colegio de Ingenieros 站，出站后转乘正规出租车沿主干道直达车站入口。",
-        selfDrive: "自驾导航至 Estación Teleférico Maripérez，入口处设有游客收费停车场。"
+        title: "从加拉加斯市区出发 (地铁 + 接驳)",
+        content: "缆车站位于城市北部山脉脚下，由于有一段长且陡峭的上坡路，极其不建议游客直接从地铁站步行前往。",
+        steps: [
+          "第 1 步：乘坐地铁。 搭乘加拉加斯地铁 1 号线（Linea 1），在 Plaza Venezuela（委内瑞拉广场站）下车。",
+          "第 2 步：出站换乘。 从地铁站出站后，请使用 Ridery/Yummy App 呼叫车辆，或直接在广场附近寻找正规出租车。",
+          "第 3 步：前往终点。 告诉司机沿着 Avenida Principal de Maripérez（马拉佩雷斯主干道）一直向北行驶至尽头，车程仅需 5-8 分钟即可抵达缆车售票大厅。"
+        ]
+      },
+      selfDrive: {
+        title: "自驾或包车直达",
+        content: "如果您在当地租车或包车游览，前往缆车站的道路非常清晰。",
+        steps: [
+          "导航设置：在 Google Maps 或 Waze 中输入精准坐标 G477+4CP, Final Av. Principal de Maripérez 或搜索 Sistema Teleférico Warairarepano。",
+          "行车路线：最快捷的路线是驶入加拉加斯北部的 Avenida Boyacá，从 Maripérez 出口驶出，缆车站就位于出口交汇处附近。",
+          "停车指南：车站入口大门内设有专用的游客收费停车场。周末及节假日车位紧张，建议在上午 10:00 前抵达。"
+        ]
       }
     },
     tips: {
@@ -235,20 +276,61 @@ export const translations = {
       },
     },
     transportation: {
-      title: "Logistics: Getting to the Station",
+      title: "Logistics: How to Reach the Maripérez Station",
       airport: {
-        title: "From the Airport (CCS)",
-        content: "The distance from the airport to the cable car station is about 30 km. Official taxis or ride-hailing apps are highly recommended.",
+        title: "From the Airport (CCS: Maiquetía Int'l)",
+        content: "The distance from the airport to Maripérez cable car station is about 30 km through mountainous terrain. For safety and efficiency, please follow these step-by-step guides:",
         options: [
-          { name: "Official Airport Taxi", time: "45-60 mins", price: "$30-50 USD", note: "Highly recommended. Direct and secure." },
-          { name: "Ride-hailing (Ridery/Yummy)", time: "45-60 mins", price: "$25-40 USD", note: "Download the app in advance. Fixed prices." },
-          { name: "Airport Bus Transfer", time: "1.5-2 hours", price: "Under $10 USD", note: "For backpackers. Take the bus to the city and then a taxi." }
+          {
+            name: "Option A: Official Airport Taxi (Highly Recommended)",
+            price: "$30 - $50 USD",
+            time: "45 - 60 mins",
+            steps: [
+              "Step 1: After claiming your luggage, do not follow unauthorized drivers soliciting outside the terminal.",
+              "Step 2: Inside the international arrivals hall, look for the official certified taxi counters (usually offering black SUVs or cars with official logos).",
+              "Step 3: Buy a ticket or confirm the price at the counter, clearly stating your destination: 'Estación Teleférico Maripérez'.",
+              "Step 4: With your ticket, follow the assigned driver to the dedicated parking spot. They will take you directly to the cable car entrance."
+            ]
+          },
+          {
+            name: "Option B: Ride-Hailing (Ridery / Yummy)",
+            price: "$25 - $40 USD",
+            time: "45 - 60 mins",
+            steps: [
+              "Step 1: Download Venezuelan local ride-hailing apps: Ridery or Yummy Rides before your trip.",
+              "Step 2: Connect to airport Wi-Fi or roaming, and set your destination to 'Teleférico de Caracas (Estación Maripérez)'.",
+              "Step 3: After confirming the ride, meet your driver at the designated terminal exit."
+            ]
+          },
+          {
+            name: "Option C: Airport Bus + City Taxi",
+            price: "Under $10 USD",
+            time: "1.5 - 2 hours",
+            steps: [
+              "Step 1: Take the official UCAMC airport bus outside the terminal heading to downtown Caracas (usually dropping off near Parque Central or Gato Negro).",
+              "Step 2: Once downtown, use a ride-hailing app or hail a registered city taxi (with a Taxi sign on the roof).",
+              "Step 3: Head to the cable car station (it's still a 10-15 minute drive from the bus drop-off)."
+            ]
+          }
         ]
       },
       city: {
-        title: "From Downtown Caracas",
-        content: "Take Metro Line 1 to Plaza Venezuela or Colegio de Ingenieros station. Then, take a registered taxi straight to the entrance.",
-        selfDrive: "Navigate to 'Estación Teleférico Maripérez'. Paid parking is available at the entrance."
+        title: "From Downtown Caracas (Metro + Transfer)",
+        content: "The station is located at the foot of the northern mountains. Because there is a long and steep uphill walk, it is highly discouraged for tourists to walk directly from the metro station.",
+        steps: [
+          "Step 1: Take the Metro. Ride Caracas Metro Line 1 and get off at Plaza Venezuela station.",
+          "Step 2: Transfer. After exiting the metro station, use the Ridery/Yummy app or find a registered taxi near the plaza.",
+          "Step 3: Reach the Destination. Tell the driver to go straight north along Avenida Principal de Maripérez until the end. It's only a 5-8 minute drive to the ticket hall."
+        ]
+      },
+      selfDrive: {
+        title: "Self-Drive or Chartered Vehicle",
+        content: "If you rent a car or hire a private driver, the route to the station is very straightforward.",
+        steps: [
+          "Navigation: Enter the exact coordinates G477+4CP, Final Av. Principal de Maripérez or search 'Sistema Teleférico Warairarepano' in Google Maps or Waze.",
+          "Driving Route: The fastest way is to get onto Avenida Boyacá (locally known as Cota Mil highway) in northern Caracas and take the Maripérez exit. The station is right near the intersection.",
+          "Parking: There is a dedicated paid parking lot for visitors inside the station gates. Arrive before 10:00 AM on weekends and holidays to secure a spot."
+        ]
       }
     },
     tips: {
@@ -403,20 +485,61 @@ export const translations = {
       },
     },
     transportation: {
-      title: "Logística: Cómo Llegar a la Estación",
+      title: "Logística: Cómo Llegar a la Estación Maripérez",
       airport: {
-        title: "Desde el Aeropuerto (CCS)",
-        content: "La distancia desde el aeropuerto hasta la estación del teleférico es de unos 30 km. Se recomiendan taxis oficiales o aplicaciones de transporte.",
+        title: "Desde el Aeropuerto (CCS: Internacional de Maiquetía)",
+        content: "La distancia desde el aeropuerto hasta la estación del teleférico de Maripérez es de unos 30 km a través de terreno montañoso. Para mayor seguridad y eficiencia, siga estas guías paso a paso:",
         options: [
-          { name: "Taxi Oficial del Aeropuerto", time: "45-60 min", price: "$30-50 USD", note: "Muy recomendado. Directo y seguro." },
-          { name: "App de Transporte (Ridery/Yummy)", time: "45-60 min", price: "$25-40 USD", note: "Descargue la app con anticipación. Precios fijos." },
-          { name: "Autobús del Aeropuerto", time: "1.5-2 horas", price: "Menos de $10 USD", note: "Para mochileros. Tome el autobús a la ciudad y luego un taxi." }
+          {
+            name: "Opción A: Taxi Oficial del Aeropuerto (Muy Recomendado)",
+            price: "$30 - $50 USD",
+            time: "45 - 60 min",
+            steps: [
+              "Paso 1: Después de recoger su equipaje, no siga a los conductores no autorizados que ofrecen servicios fuera de la terminal.",
+              "Paso 2: Dentro de la sala de llegadas internacionales, busque los mostradores de taxis oficiales certificados (generalmente ofrecen SUV negros o autos con logotipos oficiales).",
+              "Paso 3: Compre un boleto o confirme el precio en el mostrador, indicando claramente su destino: 'Estación Teleférico Maripérez'.",
+              "Paso 4: Con su boleto, siga al conductor asignado hasta el lugar de estacionamiento exclusivo. Lo llevarán directamente a la entrada del teleférico."
+            ]
+          },
+          {
+            name: "Opción B: App de Transporte (Ridery / Yummy)",
+            price: "$25 - $40 USD",
+            time: "45 - 60 min",
+            steps: [
+              "Paso 1: Descargue las aplicaciones locales de transporte de Venezuela: Ridery o Yummy Rides antes de su viaje.",
+              "Paso 2: Conéctese al Wi-Fi del aeropuerto o roaming, y establezca su destino en 'Teleférico de Caracas (Estación Maripérez)'.",
+              "Paso 3: Después de confirmar el viaje, reúnase con su conductor en la salida designada de la terminal."
+            ]
+          },
+          {
+            name: "Opción C: Autobús del Aeropuerto + Taxi Urbano",
+            price: "Menos de $10 USD",
+            time: "1.5 - 2 horas",
+            steps: [
+              "Paso 1: Tome el autobús oficial del aeropuerto UCAMC fuera de la terminal con destino al centro de Caracas (generalmente deja cerca de Parque Central o Gato Negro).",
+              "Paso 2: Una vez en el centro, use una aplicación de transporte o llame a un taxi urbano registrado (con un letrero de Taxi en el techo).",
+              "Paso 3: Diríjase a la estación del teleférico (todavía hay un viaje de 10-15 minutos desde donde lo deja el autobús)."
+            ]
+          }
         ]
       },
       city: {
-        title: "Desde el Centro de Caracas",
-        content: "Tome la Línea 1 del Metro hasta Plaza Venezuela o Colegio de Ingenieros. Luego, tome un taxi registrado directamente a la entrada.",
-        selfDrive: "Navegue hasta 'Estación Teleférico Maripérez'. Hay estacionamiento pago disponible en la entrada."
+        title: "Desde el Centro de Caracas (Metro + Traslado)",
+        content: "La estación se encuentra al pie de las montañas del norte. Debido a que hay una caminata cuesta arriba larga y empinada, se desaconseja encarecidamente que los turistas caminen directamente desde la estación de metro.",
+        steps: [
+          "Paso 1: Tome el Metro. Tome la Línea 1 del Metro de Caracas y bájese en la estación Plaza Venezuela.",
+          "Paso 2: Traslado. Después de salir de la estación de metro, use la aplicación Ridery/Yummy o busque un taxi registrado cerca de la plaza.",
+          "Paso 3: Llegue al Destino. Dígale al conductor que siga recto hacia el norte por la Avenida Principal de Maripérez hasta el final. Es solo un viaje de 5-8 minutos hasta la sala de boletos."
+        ]
+      },
+      selfDrive: {
+        title: "Conducción Propia o Vehículo Privado",
+        content: "Si alquila un automóvil o contrata un conductor privado, la ruta a la estación es muy directa.",
+        steps: [
+          "Navegación: Ingrese las coordenadas exactas G477+4CP, Final Av. Principal de Maripérez o busque 'Sistema Teleférico Warairarepano' en Google Maps o Waze.",
+          "Ruta de Conducción: La forma más rápida es tomar la Avenida Boyacá (conocida localmente como autopista Cota Mil) en el norte de Caracas y tomar la salida de Maripérez. La estación está justo cerca de la intersección.",
+          "Estacionamiento: Hay un estacionamiento pago exclusivo para visitantes dentro de las puertas de la estación. Llegue antes de las 10:00 AM los fines de semana y días festivos para asegurar un lugar."
+        ]
       }
     },
     tips: {
@@ -511,7 +634,7 @@ export type LinkItem = { name: string; url: string };
 
 export type FAQItem = { question: string; answer: string };
 
-export type TransportOption = { name: string; time: string; price: string; note: string };
+export type TransportOption = { name: string; time: string; price: string; steps: string[] };
 
 export type Translations = {
   nav: { about: string; visiting: string; transportation: string; tips: string; reviews: string; faq: string; location: string };
@@ -535,7 +658,8 @@ export type Translations = {
   transportation: {
     title: string;
     airport: { title: string; content: string; options: TransportOption[] };
-    city: { title: string; content: string; selfDrive: string };
+    city: { title: string; content: string; steps: string[] };
+    selfDrive: { title: string; content: string; steps: string[] };
   };
   tips: { title: string; items: string[] };
   gallery: { title: string; viewMore: string };

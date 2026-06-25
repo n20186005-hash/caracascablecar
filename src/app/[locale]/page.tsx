@@ -195,14 +195,20 @@ function Transportation() {
             <p className="transport-content" style={{ marginBottom: "1rem" }}>{t.transportation.airport.content}</p>
             <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
               {t.transportation.airport.options.map((opt: any, i: number) => (
-                <div key={i} style={{ padding: "1rem", background: "rgba(0,0,0,0.03)", borderRadius: "4px" }}>
+                <div key={i} style={{ padding: "1.25rem", background: "rgba(0,0,0,0.03)", borderRadius: "6px" }}>
                   <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "0.5rem" }}>
-                    <strong style={{ color: "var(--color-deep)" }}>{opt.name}</strong>
-                    <span style={{ color: "var(--color-gold)", fontWeight: 600 }}>{opt.price}</span>
+                    <strong style={{ color: "var(--color-deep)", fontSize: "1.05rem" }}>{opt.name}</strong>
                   </div>
-                  <div style={{ fontSize: "0.85rem", color: "var(--color-earth-soft)", display: "flex", gap: "1rem" }}>
+                  <div style={{ fontSize: "0.9rem", color: "var(--color-earth-soft)", display: "flex", gap: "1rem", marginBottom: "1rem" }}>
+                    <span style={{ color: "var(--color-gold)", fontWeight: 600 }}>{opt.price}</span>
                     <span>⏱️ {opt.time}</span>
-                    <span>{opt.note}</span>
+                  </div>
+                  <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+                    {opt.steps.map((step: string, j: number) => (
+                      <div key={j} style={{ fontSize: "0.9rem", color: "var(--color-earth-soft)", lineHeight: "1.5" }}>
+                        {step}
+                      </div>
+                    ))}
                   </div>
                 </div>
               ))}
@@ -213,12 +219,27 @@ function Transportation() {
             <div className="transport-card">
               <div className="transport-icon">🚇</div>
               <h3 className="transport-title">{t.transportation.city.title}</h3>
-              <p className="transport-content">{t.transportation.city.content}</p>
+              <p className="transport-content" style={{ marginBottom: "1rem" }}>{t.transportation.city.content}</p>
+              <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem", background: "rgba(0,0,0,0.02)", padding: "1.25rem", borderRadius: "6px" }}>
+                {t.transportation.city.steps.map((step: string, i: number) => (
+                  <div key={i} style={{ fontSize: "0.9rem", color: "var(--color-earth-soft)", lineHeight: "1.5" }}>
+                    {step}
+                  </div>
+                ))}
+              </div>
             </div>
+            
             <div className="transport-card">
               <div className="transport-icon">🚗</div>
-              <h3 className="transport-title">Self-Drive / Taxi</h3>
-              <p className="transport-content">{t.transportation.city.selfDrive}</p>
+              <h3 className="transport-title">{t.transportation.selfDrive.title}</h3>
+              <p className="transport-content" style={{ marginBottom: "1rem" }}>{t.transportation.selfDrive.content}</p>
+              <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem", background: "rgba(0,0,0,0.02)", padding: "1.25rem", borderRadius: "6px" }}>
+                {t.transportation.selfDrive.steps.map((step: string, i: number) => (
+                  <div key={i} style={{ fontSize: "0.9rem", color: "var(--color-earth-soft)", lineHeight: "1.5" }}>
+                    {step}
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
 
