@@ -178,11 +178,6 @@ function Visiting() {
 
 function Transportation() {
   const { t } = useLang();
-  const transportOptions = [
-    { icon: "🚡", title: t.transportation.toStation.title, content: t.transportation.toStation.content },
-    { icon: "🚌", title: t.transportation.publicTransport.title, content: t.transportation.publicTransport.content },
-    { icon: "🚗", title: t.transportation.selfDrive.title, content: t.transportation.selfDrive.content },
-  ];
 
   return (
     <section id="transportation" className="section">
@@ -192,14 +187,41 @@ function Transportation() {
         <div className="section-divider" />
       </ScrollReveal>
       <ScrollReveal>
-        <div className="transport-grid">
-          {transportOptions.map((option, i) => (
-            <div className="transport-card" key={i}>
-              <div className="transport-icon">{option.icon}</div>
-              <h3 className="transport-title">{option.title}</h3>
-              <p className="transport-content">{option.content}</p>
+        <div style={{ display: "grid", gap: "2rem", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))" }}>
+          
+          <div className="transport-card">
+            <div className="transport-icon">✈️</div>
+            <h3 className="transport-title">{t.transportation.airport.title}</h3>
+            <p className="transport-content" style={{ marginBottom: "1rem" }}>{t.transportation.airport.content}</p>
+            <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
+              {t.transportation.airport.options.map((opt: any, i: number) => (
+                <div key={i} style={{ padding: "1rem", background: "rgba(0,0,0,0.03)", borderRadius: "4px" }}>
+                  <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "0.5rem" }}>
+                    <strong style={{ color: "var(--color-deep)" }}>{opt.name}</strong>
+                    <span style={{ color: "var(--color-gold)", fontWeight: 600 }}>{opt.price}</span>
+                  </div>
+                  <div style={{ fontSize: "0.85rem", color: "var(--color-earth-soft)", display: "flex", gap: "1rem" }}>
+                    <span>⏱️ {opt.time}</span>
+                    <span>{opt.note}</span>
+                  </div>
+                </div>
+              ))}
             </div>
-          ))}
+          </div>
+
+          <div style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
+            <div className="transport-card">
+              <div className="transport-icon">🚇</div>
+              <h3 className="transport-title">{t.transportation.city.title}</h3>
+              <p className="transport-content">{t.transportation.city.content}</p>
+            </div>
+            <div className="transport-card">
+              <div className="transport-icon">🚗</div>
+              <h3 className="transport-title">Self-Drive / Taxi</h3>
+              <p className="transport-content">{t.transportation.city.selfDrive}</p>
+            </div>
+          </div>
+
         </div>
       </ScrollReveal>
     </section>

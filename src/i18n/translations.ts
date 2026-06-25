@@ -68,18 +68,20 @@ export const translations = {
     },
     transportation: {
       title: "交通物流：如何抵达起点站",
-      toStation: {
-        title: "缆车起点站",
-        content: "马拉佩雷斯站 (Estación Maripérez) 位于加拉加斯市区西北部。",
+      airport: {
+        title: "从机场出发 (CCS)",
+        content: "从机场到缆车站全程约 30 公里，建议优先选择官方出租车或网约车。",
+        options: [
+          { name: "官方机场出租车", time: "45-60 分钟", price: "30-50 美元", note: "最推荐。直达缆车站，安全可靠。" },
+          { name: "网约车 (Ridery / Yummy)", time: "45-60 分钟", price: "25-40 美元", note: "需提前下载App，明码标价。" },
+          { name: "机场大巴转乘", time: "1.5-2 小时", price: "10 美元以内", note: "适合背包客。乘大巴至市区后再打车。" }
+        ]
       },
-      selfDrive: {
-        title: "自驾/打车定位",
-        content: "在导航软件中搜索 Sistema Teleférico Warairarepano 或地址 Final Av. Principal de Maripérez, Caracas 1050。车站周边设有内部停车场。",
-      },
-      publicTransport: {
-        title: "公共交通 + 出租车（推荐）",
-        content: "乘坐加拉加斯地铁1号线至 Plaza Venezuela（委内瑞拉广场站）或 Colegio de Ingenieros 站。出站后建议直接转乘正规的城市出租车沿主干道直达车站入口。",
-      },
+      city: {
+        title: "从加拉加斯市区出发",
+        content: "乘坐地铁1号线至 Plaza Venezuela 或 Colegio de Ingenieros 站，出站后转乘正规出租车沿主干道直达车站入口。",
+        selfDrive: "自驾导航至 Estación Teleférico Maripérez，入口处设有游客收费停车场。"
+      }
     },
     tips: {
       title: "游览建议",
@@ -102,6 +104,34 @@ export const translations = {
       title: "常见问题科普 (FAQ)",
       subtitle: "深入了解缆车与周边环境",
       items: [
+        {
+          question: "需要提前在网上预订缆车票吗？",
+          answer: "目前无需提前网购。门票直接在起点站（Maripérez）的售票窗口现场购买即可。周末和节假日人流量较大，建议在上午 10:00 开门前抵达排队。"
+        },
+        {
+          question: "缆车可以将我带到多高的地方？会有高原反应吗？",
+          answer: "缆车终点站的海拔约为 2,100 米（6,890 英尺）。大多数游客在此高度不会出现严重的高原反应，但可能会感到气喘或轻微疲劳。建议放慢步行速度，并注意保暖。"
+        },
+        {
+          question: "我可以带宠物一起乘坐缆车吗？",
+          answer: "出于安全和国家公园生态保护的规定，普通游客不允许携带宠物（包括猫狗）乘坐缆车或进入 Ávila 国家公园区域。导盲犬等服务性动物需提前出示相关证明文件。"
+        },
+        {
+          question: "缆车站和车厢是否对轮椅使用者友好？",
+          answer: "缆车系统进行了现代化升级，起点和终点站均配有坡道和电梯。宽敞的缆车车厢允许标准尺寸的折叠轮椅进入，工作人员会提供登车协助。"
+        },
+        {
+          question: "山顶除了看风景，还有其他餐饮选择吗？",
+          answer: "有非常丰富的选择。除了标志性的洪堡酒店（Hotel Humboldt）内的高级餐厅外，山顶步道沿途有众多售卖当地特色美食的摊位，如草莓奶油杯（Fresas con crema）、热巧克力、手工饼干以及委内瑞拉传统的阿雷帕饼（Arepas）。"
+        },
+        {
+          question: "我可以徒步爬上 Ávila 山，然后坐缆车下山吗？",
+          answer: "可以。很多当地户外爱好者会选择清晨从 Sabas Nieves 等步道徒步登顶，然后在山顶购买单程票乘坐缆车下山。请注意，徒步路线极具挑战性，需具备良好的体能并准备充足的饮用水。"
+        },
+        {
+          question: "如果遇到下雨或恶劣天气，缆车还会运行吗？",
+          answer: "出于安全考量，遇到强风、雷暴或极端恶劣天气时，缆车会暂时停止运行，直到天气条件恢复安全标准。建议在雨季（5月至11月）出行前，关注当天早上的实时天气预报。"
+        },
         {
           question: "缆车在运行途中会因为停电而停在半空中吗？",
           answer: "缆车系统配备了独立的备用发电机组。即使加拉加斯市区发生电网故障，备用电源也能确保缆车低速运行，将所有车厢内的乘客安全运送至终点或起点站。"
@@ -206,18 +236,20 @@ export const translations = {
     },
     transportation: {
       title: "Logistics: Getting to the Station",
-      toStation: {
-        title: "Starting Station",
-        content: "Maripérez Station (Estación Maripérez) is located in the northwestern part of Caracas.",
+      airport: {
+        title: "From the Airport (CCS)",
+        content: "The distance from the airport to the cable car station is about 30 km. Official taxis or ride-hailing apps are highly recommended.",
+        options: [
+          { name: "Official Airport Taxi", time: "45-60 mins", price: "$30-50 USD", note: "Highly recommended. Direct and secure." },
+          { name: "Ride-hailing (Ridery/Yummy)", time: "45-60 mins", price: "$25-40 USD", note: "Download the app in advance. Fixed prices." },
+          { name: "Airport Bus Transfer", time: "1.5-2 hours", price: "Under $10 USD", note: "For backpackers. Take the bus to the city and then a taxi." }
+        ]
       },
-      selfDrive: {
-        title: "Driving & Ride-Hailing",
-        content: "Search for 'Sistema Teleférico Warairarepano' or the address 'Final Av. Principal de Maripérez, Caracas 1050' in your navigation app. Parking is available near the station.",
-      },
-      publicTransport: {
-        title: "Public Transport + Taxi (Recommended)",
-        content: "Take Caracas Metro Line 1 to Plaza Venezuela or Colegio de Ingenieros station. Since there is an uphill walk to the cable car station, it is recommended to take a registered city taxi from the metro station directly to the entrance via Av. Principal de Maripérez.",
-      },
+      city: {
+        title: "From Downtown Caracas",
+        content: "Take Metro Line 1 to Plaza Venezuela or Colegio de Ingenieros station. Then, take a registered taxi straight to the entrance.",
+        selfDrive: "Navigate to 'Estación Teleférico Maripérez'. Paid parking is available at the entrance."
+      }
     },
     tips: {
       title: "Travel Tips",
@@ -240,6 +272,34 @@ export const translations = {
       title: "Frequently Asked Questions",
       subtitle: "Learn more about the cable car and its surroundings",
       items: [
+        {
+          question: "Do I need to book cable car tickets online in advance?",
+          answer: "Currently, online booking is not required. You can purchase tickets directly at the ticket window at the starting station (Maripérez). On weekends and holidays, it's recommended to arrive before the 10:00 AM opening time to avoid long queues."
+        },
+        {
+          question: "How high does the cable car go? Will I get altitude sickness?",
+          answer: "The terminal station is at an altitude of approximately 2,100 meters (6,890 feet). Most visitors do not experience severe altitude sickness at this height, but you might feel slightly short of breath or fatigued. It's advisable to walk slowly and stay warm."
+        },
+        {
+          question: "Can I bring my pet on the cable car?",
+          answer: "For safety reasons and national park ecological protection rules, regular visitors are not allowed to bring pets (including cats and dogs) on the cable car or into the Ávila National Park area. Service animals like guide dogs require proper documentation."
+        },
+        {
+          question: "Are the cable car stations and cabins wheelchair accessible?",
+          answer: "Yes, the cable car system has been modernized, and both stations are equipped with ramps and elevators. The spacious cabins can accommodate standard-sized folding wheelchairs, and staff are available to assist with boarding."
+        },
+        {
+          question: "Are there food options at the summit besides enjoying the view?",
+          answer: "There are plenty of options! In addition to the fine dining at the iconic Hotel Humboldt, there are many stalls along the summit pathways selling local treats like strawberries with cream (Fresas con crema), hot chocolate, handmade cookies, and traditional Venezuelan Arepas."
+        },
+        {
+          question: "Can I hike up Ávila mountain and take the cable car down?",
+          answer: "Yes! Many local outdoor enthusiasts hike up early in the morning via trails like Sabas Nieves, and then buy a one-way ticket at the summit to ride the cable car down. Note that the hiking trails are challenging, requiring good fitness and plenty of drinking water."
+        },
+        {
+          question: "Does the cable car run if it rains or in bad weather?",
+          answer: "For safety reasons, operations are temporarily suspended during strong winds, thunderstorms, or extreme weather conditions until it's safe again. During the rainy season (May to November), check the real-time weather forecast on the morning of your visit."
+        },
         {
           question: "Will the cable car get stuck mid-air during a power outage?",
           answer: "The cable car system is equipped with independent backup generators. Even if the Caracas city power grid fails, the backup power ensures the cable cars can operate at a lower speed to safely transport all passengers to the terminal or starting station."
@@ -344,18 +404,20 @@ export const translations = {
     },
     transportation: {
       title: "Logística: Cómo Llegar a la Estación",
-      toStation: {
-        title: "Estación de Inicio",
-        content: "La Estación Maripérez se encuentra en el noroeste de Caracas.",
+      airport: {
+        title: "Desde el Aeropuerto (CCS)",
+        content: "La distancia desde el aeropuerto hasta la estación del teleférico es de unos 30 km. Se recomiendan taxis oficiales o aplicaciones de transporte.",
+        options: [
+          { name: "Taxi Oficial del Aeropuerto", time: "45-60 min", price: "$30-50 USD", note: "Muy recomendado. Directo y seguro." },
+          { name: "App de Transporte (Ridery/Yummy)", time: "45-60 min", price: "$25-40 USD", note: "Descargue la app con anticipación. Precios fijos." },
+          { name: "Autobús del Aeropuerto", time: "1.5-2 horas", price: "Menos de $10 USD", note: "Para mochileros. Tome el autobús a la ciudad y luego un taxi." }
+        ]
       },
-      selfDrive: {
-        title: "Conducir y Taxis de Aplicación",
-        content: "Busque 'Sistema Teleférico Warairarepano' o la dirección 'Final Av. Principal de Maripérez, Caracas 1050' en su aplicación de navegación. Hay estacionamiento cerca de la estación.",
-      },
-      publicTransport: {
-        title: "Transporte Público + Taxi (Recomendado)",
-        content: "Tome la Línea 1 del Metro de Caracas hasta la estación Plaza Venezuela o Colegio de Ingenieros. Dado que hay una caminata cuesta arriba hasta la estación del teleférico, se recomienda tomar un taxi urbano registrado desde la estación de metro directamente a la entrada por la Av. Principal de Maripérez.",
-      },
+      city: {
+        title: "Desde el Centro de Caracas",
+        content: "Tome la Línea 1 del Metro hasta Plaza Venezuela o Colegio de Ingenieros. Luego, tome un taxi registrado directamente a la entrada.",
+        selfDrive: "Navegue hasta 'Estación Teleférico Maripérez'. Hay estacionamiento pago disponible en la entrada."
+      }
     },
     tips: {
       title: "Consejos de Viaje",
@@ -378,6 +440,34 @@ export const translations = {
       title: "Preguntas Frecuentes",
       subtitle: "Conozca más sobre el teleférico y su entorno",
       items: [
+        {
+          question: "¿Necesito reservar los boletos del teleférico por internet con anticipación?",
+          answer: "Actualmente no es necesario comprar en línea. Puede adquirir los boletos directamente en la taquilla de la estación de inicio (Maripérez). Los fines de semana y días festivos, se recomienda llegar antes de la apertura a las 10:00 AM para evitar largas filas."
+        },
+        {
+          question: "¿Qué tan alto llega el teleférico? ¿Me dará el mal de altura?",
+          answer: "La estación terminal se encuentra a una altitud de aproximadamente 2.100 metros (6.890 pies). La mayoría de los visitantes no experimentan mal de altura severo a esta altura, pero podrían sentir un poco de fatiga o falta de aliento. Se recomienda caminar despacio y mantenerse abrigado."
+        },
+        {
+          question: "¿Puedo llevar a mi mascota en el teleférico?",
+          answer: "Por razones de seguridad y normas de protección ecológica del parque nacional, no se permite a los visitantes regulares llevar mascotas (incluidos perros y gatos) en el teleférico o en el área del Parque Nacional Ávila. Los animales de servicio, como los perros guía, requieren documentación adecuada."
+        },
+        {
+          question: "¿Las estaciones y las cabinas del teleférico son accesibles para sillas de ruedas?",
+          answer: "Sí, el sistema de teleférico ha sido modernizado y ambas estaciones cuentan con rampas y ascensores. Las espaciosas cabinas pueden acomodar sillas de ruedas plegables de tamaño estándar, y el personal está disponible para ayudar con el embarque."
+        },
+        {
+          question: "¿Hay opciones de comida en la cima además de disfrutar de la vista?",
+          answer: "¡Hay muchas opciones! Además de la alta cocina en el icónico Hotel Humboldt, hay numerosos puestos a lo largo de los senderos de la cima que venden delicias locales como fresas con crema, chocolate caliente, galletas artesanales y las tradicionales arepas venezolanas."
+        },
+        {
+          question: "¿Puedo subir caminando la montaña Ávila y tomar el teleférico para bajar?",
+          answer: "¡Sí! Muchos entusiastas locales del aire libre suben temprano en la mañana a través de senderos como Sabas Nieves, y luego compran un boleto de ida en la cima para bajar en el teleférico. Tenga en cuenta que los senderos son desafiantes, requieren buena condición física y abundante agua."
+        },
+        {
+          question: "¿Funciona el teleférico si llueve o hay mal tiempo?",
+          answer: "Por razones de seguridad, las operaciones se suspenden temporalmente durante vientos fuertes, tormentas eléctricas o condiciones climáticas extremas hasta que sea seguro nuevamente. Durante la temporada de lluvias (mayo a noviembre), verifique el pronóstico del tiempo en tiempo real en la mañana de su visita."
+        },
         {
           question: "¿Se quedará atascado el teleférico en el aire durante un apagón?",
           answer: "El sistema de teleférico está equipado con generadores de respaldo independientes. Incluso si falla la red eléctrica de la ciudad de Caracas, la energía de respaldo garantiza que las cabinas puedan operar a menor velocidad para transportar de manera segura a todos los pasajeros hasta la terminal o la estación de inicio."
@@ -421,6 +511,8 @@ export type LinkItem = { name: string; url: string };
 
 export type FAQItem = { question: string; answer: string };
 
+export type TransportOption = { name: string; time: string; price: string; note: string };
+
 export type Translations = {
   nav: { about: string; visiting: string; transportation: string; tips: string; reviews: string; faq: string; location: string };
   hero: { tagline: string; title: string; subtitle: string; cta: string };
@@ -442,9 +534,8 @@ export type Translations = {
   };
   transportation: {
     title: string;
-    toStation: { title: string; content: string };
-    selfDrive: { title: string; content: string };
-    publicTransport: { title: string; content: string };
+    airport: { title: string; content: string; options: TransportOption[] };
+    city: { title: string; content: string; selfDrive: string };
   };
   tips: { title: string; items: string[] };
   gallery: { title: string; viewMore: string };
