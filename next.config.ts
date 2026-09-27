@@ -1,11 +1,6 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  output: "export",
-  turbopack: {},
-  webpack: (config, { isServer }) => {
-    return config;
-  },
+const nextConfig = {
+  // OpenNext (@opennextjs/cloudflare) requires the standalone output trace.
+  output: "standalone" as const,
 };
 
 export default nextConfig;
