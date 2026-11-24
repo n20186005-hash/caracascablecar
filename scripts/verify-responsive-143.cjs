@@ -11,13 +11,13 @@ const fs=require('node:fs');const {chromium}=require('playwright-core');
    const links=await page.locator('a[href]').evaluateAll(as=>as.map(a=>({text:a.innerText,path:a.pathname,href:a.href})).filter(x=>x.href.startsWith(location.origin+'/zh/')));
    if(kind==='home'){const choice=links.find(x=>/cathedral|catedral/i.test(x.path)||/大教堂|主教座堂/.test(x.text));if(!choice)throw new Error('Missing cathedral entry: '+JSON.stringify(links.map(a=>a.path).slice(0,50)));detail=choice.href;}
    await page.evaluate(async()=>{await Promise.race([document.fonts.ready,new Promise(r=>setTimeout(r,5000))]);});
-   await page.waitForTimeout(600);
+   await page.waitForTimeout(1800);
    const ui=await page.evaluate(async()=>{
-    const areas=[...document.querySelectorAll('main img,header img,section img, main *, section *, [class*=hero]')].filter(el=>{const r=el.getBoundingClientRect();return r.width>180&&r.height>100&&r.bottom>0&&r.top<innerHeight;});
+    const areas=[...document.querySelectorAll('body,body *')].filter(el=>{const r=el.getBoundingClientRect();return r.width>180&&r.height>100&&r.bottom>0&&r.top<innerHeight;});
     let image='';let imgWidth=0;
     for(const el of areas){
      let src=el.tagName==='IMG'?el.currentSrc:'';
-     if(!src){const bg=getComputedStyle(el).backgroundImage;const match=bg.match(/url\(["']?([^"')]+)["']?\)/);src=match&&match[1];}
+     if(!src){const bg=[getComputedStyle(el).backgroundImage,getComputedStyle(el,'::before').backgroundImage,getComputedStyle(el,'::after').backgroundImage].join(',');const match=bg.match(/url\(["']?([^"')]+)["']?\)/);src=match&&match[1];}
      if(!src)continue;
      try{const im=new Image();im.src=src;await Promise.race([im.decode(),new Promise((_,no)=>setTimeout(()=>no('timeout'),4500))]);if(im.naturalWidth>=240){image=src;imgWidth=im.naturalWidth;break;}}catch{}
     }

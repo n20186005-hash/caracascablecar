@@ -13,6 +13,8 @@ jobs:
         env:
           PRODUCTION_SHA: 67fe800d25cb099b77e9085ea6cd41a3f286e0ec
         run: |
+          sudo apt-get -qq update && sudo apt-get -qq install -y fonts-noto-cjk
+          fc-cache -f
           npm install --prefix /tmp/caracas-visual --no-audit --no-fund playwright-core
           NODE_PATH=/tmp/caracas-visual/node_modules node scripts/verify-responsive-143.cjs
       - name: Retain visual evidence
