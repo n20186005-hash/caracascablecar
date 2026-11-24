@@ -1,0 +1,21 @@
+name: Verify 93 production Caracas guides
+on:
+  push:
+    branches: ['verify/143-public-guides-20261124']
+permissions:
+  contents: read
+jobs:
+  public-guides:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check each published URL and photograph
+        run: python3 .github/check-public-143.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: production-143
+          path: public-143.json
