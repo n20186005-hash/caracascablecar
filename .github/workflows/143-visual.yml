@@ -1,0 +1,24 @@
+name: Verify live Caracas responsive layout
+on:
+  push:
+    branches: [qa/143-responsive-review]
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inspect production with one Chromium tab
+        env:
+          PRODUCTION_SHA: 67fe800d25cb099b77e9085ea6cd41a3f286e0ec
+        run: |
+          npm install --prefix /tmp/caracas-visual --no-audit --no-fund playwright-core
+          NODE_PATH=/tmp/caracas-visual/node_modules node scripts/verify-responsive-143.cjs
+      - name: Retain visual evidence
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add evidence/143/visual
+          if ! git diff --cached --quiet; then git commit -m 'Record Caracas production screenshots and measured layouts'; git push origin HEAD:qa/143-responsive-review; fi
