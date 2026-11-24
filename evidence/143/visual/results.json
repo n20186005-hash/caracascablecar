@@ -1,0 +1,133 @@
+{
+  "sha": "67fe800d25cb099b77e9085ea6cd41a3f286e0ec",
+  "results": [
+    {
+      "kind": "home",
+      "viewport": "desktop",
+      "url": "https://www.caracascablecar.com/zh",
+      "status": 200,
+      "width": 1280,
+      "contentWidth": 1280,
+      "h1": "马拉韦雷帕诺缆车",
+      "image": "",
+      "imgWidth": 0,
+      "footer": true,
+      "footerLinks": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/privacy",
+        "/terms",
+        "/cookies"
+      ],
+      "nearbyNav": [
+        {
+          "text": "探索加拉加斯",
+          "href": "/zh#nearby"
+        }
+      ],
+      "homeDetailLinks": 31,
+      "pass": false
+    },
+    {
+      "kind": "cathedral",
+      "viewport": "desktop",
+      "url": "https://www.caracascablecar.com/zh/nearby/caracas-cathedral",
+      "status": 200,
+      "width": 1280,
+      "contentWidth": 1280,
+      "h1": "加拉加斯主教座堂",
+      "image": "https://www.caracascablecar.com/nearby/caracas-cathedral.JPG",
+      "imgWidth": 330,
+      "footer": true,
+      "footerLinks": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/privacy",
+        "/terms",
+        "/cookies"
+      ],
+      "nearbyNav": [
+        {
+          "text": "探索加拉加斯",
+          "href": "/zh#nearby"
+        },
+        {
+          "text": "探索加拉加斯",
+          "href": "/zh#nearby"
+        }
+      ],
+      "homeDetailLinks": 0,
+      "pass": true
+    },
+    {
+      "kind": "home",
+      "viewport": "mobile",
+      "url": "https://www.caracascablecar.com/zh",
+      "status": 200,
+      "width": 390,
+      "contentWidth": 390,
+      "h1": "马拉韦雷帕诺缆车",
+      "image": "",
+      "imgWidth": 0,
+      "footer": true,
+      "footerLinks": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/privacy",
+        "/terms",
+        "/cookies"
+      ],
+      "nearbyNav": [
+        {
+          "text": "探索加拉加斯",
+          "href": "/zh#nearby"
+        }
+      ],
+      "homeDetailLinks": 31,
+      "pass": false
+    },
+    {
+      "kind": "cathedral",
+      "viewport": "mobile",
+      "url": "https://www.caracascablecar.com/zh/nearby/caracas-cathedral",
+      "status": 200,
+      "width": 390,
+      "contentWidth": 390,
+      "h1": "加拉加斯主教座堂",
+      "image": "https://www.caracascablecar.com/nearby/caracas-cathedral.JPG",
+      "imgWidth": 330,
+      "footer": true,
+      "footerLinks": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "/",
+        "/privacy",
+        "/terms",
+        "/cookies"
+      ],
+      "nearbyNav": [
+        {
+          "text": "探索加拉加斯",
+          "href": "/zh#nearby"
+        },
+        {
+          "text": "探索加拉加斯",
+          "href": "/zh#nearby"
+        }
+      ],
+      "homeDetailLinks": 0,
+      "pass": true
+    }
+  ]
+}
