@@ -1,7 +1,9 @@
-const nextConfig = {
-  // OpenNext (@opennextjs/cloudflare) requires the standalone output trace.
+import type { NextConfig } from "next";
+
+const config: NextConfig = {
+  output: "export",
   experimental: { cpus: 1 },
-  output: "standalone" as const,
+  images: { unoptimized: true },
 };
 
-export default nextConfig;
+export default config;
