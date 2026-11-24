@@ -2,7 +2,8 @@
 
 import React, { useEffect, useState, useRef } from "react";
 import { LangProvider, useLang } from "@/components/LangProvider";
-import { LanguageSwitcher } from "@/components/LanguageSwitcher";
+import { places, labels } from "@/nearby/catalog";
+import { Nav, Footer } from "@/components/SiteChrome";
 
 const MAPS_URL = "https://maps.app.goo.gl/U9eHagpbauG8U5U57";
 
@@ -33,37 +34,6 @@ function ScrollReveal({ children, className = "" }: { children: React.ReactNode;
     return () => obs.disconnect();
   }, []);
   return <div ref={ref} className={`reveal ${className}`}>{children}</div>;
-}
-
-function Nav() {
-  const { t } = useLang();
-  const [scrolled, setScrolled] = useState(false);
-  useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 80);
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, []);
-  return (
-    <nav className={`site-nav ${scrolled ? "scrolled" : ""}`}>
-      <div style={{ display: "flex", alignItems: "center", gap: "1.5rem" }}>
-        <span style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", fontWeight: 700, color: "#fff" }}>
-          Warairarepano
-        </span>
-      </div>
-      <div style={{ display: "flex", alignItems: "center", gap: "2rem" }}>
-        <div className="nav-links">
-          <a href="#about">{t.nav.about}</a>
-          <a href="#visiting">{t.nav.visiting}</a>
-          <a href="#transportation">{t.nav.transportation}</a>
-          <a href="#tips">{t.nav.tips}</a>
-          <a href="#reviews">{t.nav.reviews}</a>
-          <a href="#faq">{t.nav.faq}</a>
-          <a href="#location">{t.nav.location}</a>
-        </div>
-        <LanguageSwitcher />
-      </div>
-    </nav>
-  );
 }
 
 function Hero() {
@@ -487,35 +457,12 @@ function Contact() {
   );
 }
 
-function Footer() {
-  const { t } = useLang();
-  return (
-    <footer className="site-footer">
-      <div className="footer-links">
-        <p className="footer-links-title">{t.footer.linksTitle}</p>
-        <div className="footer-links-grid">
-          {t.footer.links.map((link: any, i: number) => (
-            <a key={i} href={link.url} target="_blank" rel="noopener noreferrer" className="footer-link-item">
-              {link.name}
-            </a>
-          ))}
-        </div>
-      </div>
-      <div className="footer-legal" style={{ maxWidth: "1100px", margin: "0 auto", padding: "1rem 2rem 0", textAlign: "center" }}>
-        <a href="/privacy" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem", marginRight: "1.5rem" }}>
-          Privacy Policy
-        </a>
-        <a href="/terms" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem", marginRight: "1.5rem" }}>
-          Terms of Service
-        </a>
-        <a href="/cookies" style={{ color: "rgba(255,255,255,0.5)", textDecoration: "none", fontSize: "0.8rem" }}>
-          Cookie Settings
-        </a>
-      </div>
-      <p className="footer-text" style={{ marginTop: "1rem" }}>{t.footer.text}</p>
-      <p className="footer-made">{t.footer.made}</p>
-    </footer>
-  );
+function Nearby() {
+  const { locale } = useLang();
+  return <section id="nearby" className="section nearby-index">
+    <h2 className="section-title">{labels[locale].near}</h2>
+    <ul className="highlights-grid">{places.map(p => <li key={p.slug}><a href={`/${locale}/nearby/${p.slug}`}>{p.locales[locale].name}</a></li>)}</ul>
+  </section>;
 }
 
 export default function Home(props: { params: Promise<{ locale: string }> }) {
@@ -533,6 +480,7 @@ export default function Home(props: { params: Promise<{ locale: string }> }) {
       <FAQ />
       <Location />
       <Contact />
+      <Nearby />
       <Footer />
     </LangProvider>
   );

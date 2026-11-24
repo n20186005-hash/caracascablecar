@@ -17,7 +17,7 @@ const dmSans = DM_Sans({
   display: "swap",
 });
 
-const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "caracascablecar.com"}`;
+const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "www.caracascablecar.com"}`;
 
 export async function generateMetadata(
   { params }: { params: Promise<{ locale: string }> }

@@ -1,0 +1,1769 @@
+[
+  {
+    "slug": "caracas-cathedral",
+    "address": "Plaza Bolívar, esquina de la Torre, Caracas, Venezuela",
+    "operator": "Arquidiócesis de Caracas",
+    "category": "church",
+    "image": "/nearby/caracas-cathedral.JPG",
+    "source": "https://es.wikipedia.org/wiki/Catedral_metropolitana_de_Santa_Ana_(Caracas)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Catedral_de_Caracas.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Caracas%2C%20Plaza%20Bol%C3%ADvar%2C%20esquina%20de%20la%20Torre%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Caracas Cathedral",
+        "intro": "The cathedral faces the square where the colonial town took shape. Its Holy Trinity chapel connects the history of the building with Bolívar’s own family.",
+        "walk": "From the statue cross to the east edge of the square, examine the bell tower from across the street, then approach the nave door. Leave the aisle clear when services are under way.",
+        "stops": [
+          "Square",
+          "Bell tower",
+          "Nave entrance"
+        ],
+        "hours": "Check the current Mass schedule with the parish. A service takes precedence over a sightseeing visit.",
+        "fees": "Ask the parish separately about access to chapels or a guided visit.",
+        "look": "Notice how the tower signals the cathedral from the square while the chapels divide the interior into more private spaces of remembrance.",
+        "photo": "Stand on the plaza side for the bell tower above the roofline.",
+        "highlight": "The Holy Trinity chapel connects the cathedral with Bolívar’s family."
+      },
+      "es": {
+        "name": "Catedral de Caracas",
+        "intro": "La catedral mira hacia la plaza donde tomó forma la ciudad colonial. La capilla de la Santísima Trinidad vincula el templo con la familia de Bolívar.",
+        "walk": "Desde la estatua, camina al borde oriental de la plaza, observa el campanario desde enfrente y acércate a la puerta de la nave. Deja libre el pasillo durante el culto.",
+        "stops": [
+          "Plaza Bolívar",
+          "campanario",
+          "nave"
+        ],
+        "hours": "Consulta el horario de misas en la parroquia. El culto tiene prioridad sobre la visita.",
+        "fees": "Consulta por separado con la parroquia el acceso a capillas y las visitas guiadas.",
+        "look": "Observa cómo la torre identifica la catedral desde la plaza, mientras las capillas crean ámbitos más íntimos de memoria.",
+        "photo": "Desde el lado de la plaza encuadra el campanario sobre el tejado.",
+        "highlight": "La capilla de la Santísima Trinidad vincula la catedral con la familia de Bolívar."
+      },
+      "zh": {
+        "name": "加拉加斯主教座堂",
+        "intro": "主教座堂面向殖民时期的城市中心。圣三小堂与玻利瓦尔家族的墓葬有关，是了解教堂与这座城市关系的一个切入点。",
+        "walk": "从骑马像走到广场东侧，先隔街看钟楼，再走到中殿入口。举行礼拜时请让出过道。",
+        "stops": [
+          "广场",
+          "钟楼",
+          "中殿入口"
+        ],
+        "hours": "到堂区核对弥撒时间，参观以不干扰礼仪为前提。",
+        "fees": "侧堂或讲解活动的入场条件请向堂区另行询问。",
+        "look": "钟楼让整座广场都能辨认教堂，内部小堂则形成更私密的纪念空间。",
+        "photo": "从广场一侧取景，让钟楼完整越过屋顶线。",
+        "highlight": "圣三小堂与玻利瓦尔家族的关系，是理解本堂历史的线索。"
+      }
+    }
+  },
+  {
+    "slug": "plaza-bolivar-caracas",
+    "address": "Plaza Bolívar, casco histórico, Caracas, Venezuela",
+    "operator": "Alcaldía de Caracas",
+    "category": "square",
+    "image": "/nearby/plaza-bolivar-caracas.JPG",
+    "source": "https://es.wikipedia.org/wiki/Plaza_Bol%C3%ADvar_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Bolivar-plaza-caballo-caracas.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Plaza%20Bol%C3%ADvar%20de%20Caracas%2C%20Plaza%20Bol%C3%ADvar%2C%20casco%20hist%C3%B3rico%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Plaza Bolívar (Caracas)",
+        "intro": "Caracas took shape around this open block. The equestrian monument occupies the centre, while the cathedral and public offices frame different sides of the square.",
+        "walk": "Start by the cathedral, approach the statue along a paved path, then turn towards the municipal palace. Frame the horse against the tree canopy from the side of the pedestal.",
+        "stops": [
+          "Cathedral",
+          "Equestrian statue",
+          "Municipal Palace"
+        ],
+        "hours": "Plan the outdoor walk in daylight, allowing for civic events and temporary street closures.",
+        "fees": "There is no box office for the public square; adjoining buildings have their own access conditions.",
+        "look": "From the pedestal turn a full circle. The façades tell you which side held religious authority and which housed civic authorities.",
+        "photo": "Move around the pedestal until the rider is clear of the branches.",
+        "highlight": "The square preserves a central reference point of the founding town plan."
+      },
+      "es": {
+        "name": "Plaza Bolívar de Caracas",
+        "intro": "La trama de Caracas creció alrededor de esta manzana abierta. En el centro está el monumento ecuestre; la catedral y los edificios públicos delimitan flancos distintos.",
+        "walk": "Empieza junto a la catedral, sigue un sendero pavimentado hasta la estatua y gira hacia el Palacio Municipal. Desde un lateral del pedestal, encuadra el caballo contra las copas.",
+        "stops": [
+          "Catedral",
+          "monumento ecuestre",
+          "Palacio Municipal"
+        ],
+        "hours": "Planea el paseo con luz diurna y considera actos cívicos y cortes temporales de calles.",
+        "fees": "El espacio público no tiene taquilla; los edificios vecinos aplican sus propias condiciones.",
+        "look": "Gira alrededor del pedestal. Las fachadas permiten identificar la autoridad religiosa y la administración civil en lados distintos.",
+        "photo": "Rodea el pedestal hasta separar la silueta del jinete de las ramas.",
+        "highlight": "La plaza conserva un punto central del trazado fundacional."
+      },
+      "zh": {
+        "name": "加拉加斯玻利瓦尔广场",
+        "intro": "加拉加斯最早的街道围绕这块开放地带发展。骑马像居中，教堂与行政建筑分处广场不同侧面。",
+        "walk": "从主教座堂一侧沿铺装路走到雕像，再转向市政宫。从基座侧面拍摄，树冠会成为马身的背景。",
+        "stops": [
+          "主教座堂",
+          "骑马像",
+          "市政宫"
+        ],
+        "hours": "建议白天步行，遇到市政活动或临时街道管制，依现场开放的通道通行。",
+        "fees": "公共广场没有售票口，周边建筑的入场规则另计。",
+        "look": "绕雕像基座一周，观察不同方向的立面，辨认宗教与市政机构所占据的位置。",
+        "photo": "沿基座侧面移动，找到马背人物不与枝条重叠的角度。",
+        "highlight": "这里是辨认早期城市规划中心的位置。"
+      }
+    }
+  },
+  {
+    "slug": "birthplace-of-simon-bolivar",
+    "address": "Esquinas de San Jacinto a Traposos, Caracas, Venezuela",
+    "operator": "Casa Natal del Libertador",
+    "category": "museum",
+    "image": "/nearby/birthplace-of-simon-bolivar.JPG",
+    "source": "https://es.wikipedia.org/wiki/Casa_Natal_del_Libertador_Sim%C3%B3n_Bol%C3%ADvar",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Casa_natal_del_Libertador.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Casa%20Natal%20del%20Libertador%20Sim%C3%B3n%20Bol%C3%ADvar%2C%20Esquinas%20de%20San%20Jacinto%20a%20Traposos%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Birthplace of Simón Bolívar",
+        "intro": "Bolívar was born here in 1783. The courtyard plan makes family life easier to imagine than the monumental state buildings elsewhere in the historic quarter.",
+        "walk": "Walk from Plaza El Venezolano to the San Jacinto entrance; compare the plain street front with the rooms around the patio. Look back from the courtyard doorway for a framed view.",
+        "stops": [
+          "El Venezolano Square",
+          "San Jacinto entrance",
+          "Courtyard"
+        ],
+        "hours": "Ask the museum desk which galleries are open and the last admission time. Exhibition changeovers can affect individual rooms.",
+        "fees": "Check the current exhibition’s admission conditions with the museum before travelling, especially for groups and guided tours.",
+        "look": "The house makes a useful counterpoint to the monumental Pantheon. Visit the domestic rooms first to understand the change from family memory to national commemoration.",
+        "photo": "Use a courtyard doorway to frame the opposite gallery without touching exhibits.",
+        "highlight": "Bolívar’s birthplace preserves the scale of a family home."
+      },
+      "es": {
+        "name": "Casa Natal del Libertador Simón Bolívar",
+        "intro": "Bolívar nació aquí en 1783. El patio permite imaginar la vida familiar a una escala muy distinta de la de los edificios de gobierno del centro.",
+        "walk": "Desde la plaza El Venezolano, llega a la entrada de San Jacinto; compara la fachada sobria con las habitaciones del patio. Encuadra el patio desde el umbral.",
+        "stops": [
+          "Plaza El Venezolano",
+          "San Jacinto",
+          "patio"
+        ],
+        "hours": "Pregunta al museo por las salas abiertas y la última admisión. Los cambios de exposición pueden afectar una sala concreta.",
+        "fees": "Comprueba con el museo las condiciones vigentes de la exposición, sobre todo para grupos y visitas guiadas.",
+        "look": "La casa ofrece un contrapunto al Panteón. Conocer primero las habitaciones ayuda a distinguir la memoria familiar de la conmemoración nacional.",
+        "photo": "Encuadra la galería opuesta desde un umbral sin tocar las piezas.",
+        "highlight": "La casa natal conserva la escala de una residencia familiar."
+      },
+      "zh": {
+        "name": "玻利瓦尔故居",
+        "intro": "玻利瓦尔于1783年出生在这所宅院。庭院的尺度贴近日常家庭生活，与老城里宏大的公共纪念建筑形成鲜明对照。",
+        "walk": "从委内瑞拉人广场步行到圣哈辛托街入口，比较朴素的街面和彩绘厅室。在庭院门框内回望，最能呈现内外尺度变化。",
+        "stops": [
+          "委内瑞拉人广场",
+          "圣哈辛托入口",
+          "庭院"
+        ],
+        "hours": "先向馆方确认开放展厅和最晚入场时间；换展期间部分展室可能单独关闭。",
+        "fees": "出发前向馆方核对当期展览的入场办法，团体预约与导览须单独询问。",
+        "look": "故居与国家先贤祠可组成对照路线：先看居家的房间，再看国家纪念建筑，便能理解两种尺度的差异。",
+        "photo": "透过庭院门框拍对面廊道，不倚靠展品。",
+        "highlight": "庭院保留了家庭住宅的空间尺度。"
+      }
+    }
+  },
+  {
+    "slug": "national-pantheon-of-venezuela",
+    "address": "Foro Libertador, Altagracia, Caracas, Venezuela",
+    "operator": "Panteón Nacional de Venezuela",
+    "category": "monument",
+    "image": "/nearby/national-pantheon-of-venezuela.jpg",
+    "source": "https://es.wikipedia.org/wiki/Pante%C3%B3n_Nacional_de_Venezuela",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Panteon_Nacional_de_Caracas.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Pante%C3%B3n%20Nacional%20de%20Venezuela%2C%20Foro%20Libertador%2C%20Altagracia%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "National Pantheon of Venezuela",
+        "intro": "A former church site became a national place of remembrance in the 1870s. The historic pantheon and the much newer Bolívar mausoleum express two different ideas of commemoration.",
+        "walk": "Enter the Foro Libertador on foot, stand far enough back to see the towers together, then follow the marked public approach. Use the forecourt for photographs before asking about interior access.",
+        "stops": [
+          "Foro Libertador",
+          "Forecourt",
+          "Pantheon entrance"
+        ],
+        "hours": "Public access follows the ceremonial programme; verify the open pedestrian area on arrival.",
+        "fees": "Walking the public approach and visiting a controlled interior are separate activities; ask staff at the entrance.",
+        "look": "Compare the vertical historic towers with the modern volume behind them. Do not expect every part of the ensemble to be open during ceremonies.",
+        "photo": "Step back on the forecourt for the towers together; look along the side for the newer mausoleum.",
+        "highlight": "The old pantheon and the new mausoleum mark distinct phases of commemoration."
+      },
+      "es": {
+        "name": "Panteón Nacional de Venezuela",
+        "intro": "Una antigua iglesia dio lugar al recinto funerario nacional en la década de 1870. El panteón histórico y el mausoleo contemporáneo expresan dos maneras de conmemorar a Bolívar.",
+        "walk": "Entra a pie al Foro Libertador, retrocede para ver juntas las torres y sigue el acceso público señalizado. Haz las fotos desde la explanada antes de consultar el ingreso.",
+        "stops": [
+          "Foro Libertador",
+          "explanada",
+          "acceso al panteón"
+        ],
+        "hours": "El acceso público depende de los actos ceremoniales; comprueba al llegar el sector peatonal abierto.",
+        "fees": "Recorrer la explanada pública y entrar en un recinto controlado son actividades distintas; consulta al personal de acceso.",
+        "look": "Compara las torres históricas con el volumen contemporáneo posterior. Durante los actos pueden cerrarse sectores por separado.",
+        "photo": "Retrocede en la explanada para incluir las torres y mira por el lateral hacia el mausoleo reciente.",
+        "highlight": "El panteón y el mausoleo corresponden a etapas distintas de conmemoración."
+      },
+      "zh": {
+        "name": "委内瑞拉国家先贤祠",
+        "intro": "19世纪70年代，一处教堂旧址成为国家纪念场所。较早的先贤祠与后来的玻利瓦尔陵墓相邻，建筑形式体现了不同时代的纪念方式。",
+        "walk": "步行进入解放者广场，先后退至能看全双塔的位置，再沿标示通道靠近建筑。在前庭拍完外景后，到入口询问室内参观安排。",
+        "stops": [
+          "解放者广场",
+          "前庭",
+          "先贤祠入口"
+        ],
+        "hours": "开放范围可能随纪念仪式调整，抵达后先确认可步行区域。",
+        "fees": "走公共前庭与进入受管制空间是两项不同活动，入内安排请在入口询问。",
+        "look": "比较历史双塔与后方现代建筑的体量。举行仪式时，不同区域可能分别限制进入。",
+        "photo": "在前庭后退取双塔全景，移到侧面再看后方的新陵墓。",
+        "highlight": "先贤祠与新陵墓体现两个年代的纪念形式。"
+      }
+    }
+  },
+  {
+    "slug": "palacio-federal-legislativo",
+    "address": "Avenida Universidad, Capitolio, Caracas, Venezuela",
+    "operator": "Asamblea Nacional de Venezuela",
+    "category": "government",
+    "image": "/nearby/palacio-federal-legislativo.jpg",
+    "source": "https://es.wikipedia.org/wiki/Palacio_Federal_Legislativo",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:PalacioLegislativo2_fixed.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Palacio%20Federal%20Legislativo%2C%20Avenida%20Universidad%2C%20Capitolio%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Palacio Federal Legislativo",
+        "intro": "Built in the 1870s for the federal legislature, the Capitol is identifiable by its dome. The exterior can be studied from the street even when parliamentary business restricts the interior.",
+        "walk": "Walk southwest from Plaza Bolívar along the public pavement, stop where the dome clears the cornice, then continue along the street to San Francisco church. Stay on the public side of barriers.",
+        "stops": [
+          "Bolívar Square",
+          "Capitol",
+          "San Francisco church"
+        ],
+        "hours": "Legislative or municipal work can limit visitor access. Plan the exterior walk first and check any interior appointment directly.",
+        "fees": "The public pavement requires no ticket. An appointment, ID or separate permission may apply beyond reception.",
+        "look": "The dome is easiest to identify from a little distance. At close range concentrate on entrances and the boundary between the street and the seat of government.",
+        "photo": "Move along the pavement until the dome clears the near wall.",
+        "highlight": "The dome identifies a nineteenth-century seat of government."
+      },
+      "es": {
+        "name": "Palacio Federal Legislativo",
+        "intro": "Levantado en la década de 1870 para el poder legislativo, el Capitolio se reconoce por su cúpula. Desde la calle se aprecia el conjunto incluso durante las sesiones.",
+        "walk": "Sal de la plaza Bolívar hacia el suroeste, busca en la acera un punto donde la cúpula sobresalga y sigue a la iglesia de San Francisco. Respeta los cierres del recinto.",
+        "stops": [
+          "Plaza Bolívar",
+          "Capitolio",
+          "San Francisco"
+        ],
+        "hours": "La actividad institucional puede limitar el acceso. Planea primero el paseo exterior y confirma cualquier cita para el interior.",
+        "fees": "La acera pública no requiere entrada. Dentro pueden pedir cita, identificación o autorización.",
+        "look": "La cúpula se aprecia a distancia. De cerca, observa los accesos y el límite entre la calle y la sede legislativa.",
+        "photo": "Avanza por la acera hasta que la cúpula se separe del muro cercano.",
+        "highlight": "La cúpula identifica una sede de gobierno del siglo XIX."
+      },
+      "zh": {
+        "name": "联邦立法宫",
+        "intro": "这座19世纪70年代修建的立法建筑以穹顶为标志。即使议事期间限制进入，仍能从街边观察外立面和建筑轴线。",
+        "walk": "从玻利瓦尔广场往西南沿人行道走，找到穹顶越过檐口的视角，然后沿街走到圣方济各堂。停留在公共通道一侧。",
+        "stops": [
+          "玻利瓦尔广场",
+          "国会大厦",
+          "圣方济各堂"
+        ],
+        "hours": "公务安排可能限制入内。可优先安排外观游线，再向现场工作人员核实预约。",
+        "fees": "街边人行道无需购票。接待处以内可能需要预约、身份证件或参观许可。",
+        "look": "远处适合辨认穹顶，走近后则可观察建筑入口以及从街道过渡到议会空间的界线。",
+        "photo": "沿人行道调整位置，让穹顶轮廓越过近处围墙。",
+        "highlight": "穹顶是辨识这座19世纪政府建筑的标志。"
+      }
+    }
+  },
+  {
+    "slug": "municipal-palace-of-caracas",
+    "address": "Esquina de Las Monjas, Plaza Bolívar, Caracas, Venezuela",
+    "operator": "Alcaldía del Municipio Libertador",
+    "category": "government",
+    "image": "/nearby/municipal-palace-of-caracas.jpg",
+    "source": "https://es.wikipedia.org/wiki/Palacio_Municipal_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Cabildo_Municipio_Libertador%2C_Caracas.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Palacio%20Municipal%20de%20Caracas%2C%20Esquina%20de%20Las%20Monjas%2C%20Plaza%20Bol%C3%ADvar%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Municipal Palace of Caracas",
+        "intro": "The municipal palace houses Libertador’s local government and the Museo Caracas. An open office door and an open museum entrance can mean quite different things here.",
+        "walk": "Cross from the square to Las Monjas corner, read the building identification and ask there for the museum entrance. Step back across the street to photograph the rhythm of the windows.",
+        "stops": [
+          "Bolívar Square",
+          "Las Monjas corner",
+          "Museo Caracas"
+        ],
+        "hours": "Legislative or municipal work can limit visitor access. Plan the exterior walk first and check any interior appointment directly.",
+        "fees": "The public pavement requires no ticket. An appointment, ID or separate permission may apply beyond reception.",
+        "look": "Use the corner name Las Monjas when asking directions. The historic centre often uses named corners in addition to street addresses.",
+        "photo": "Use the square side of Las Monjas corner for a broader view of the civic frontage.",
+        "highlight": "The city museum shares the palace with municipal offices."
+      },
+      "es": {
+        "name": "Palacio Municipal de Caracas",
+        "intro": "El palacio alberga el gobierno municipal de Libertador y el Museo Caracas. El acceso a una oficina y el ingreso al museo tienen finalidades distintas.",
+        "walk": "Cruza desde la plaza a la esquina de Las Monjas, lee la identificación y pregunta allí por el museo. Desde enfrente se ve mejor el ritmo de las ventanas.",
+        "stops": [
+          "Plaza Bolívar",
+          "esquina de Las Monjas",
+          "Museo Caracas"
+        ],
+        "hours": "La actividad institucional puede limitar el acceso. Planea primero el paseo exterior y confirma cualquier cita para el interior.",
+        "fees": "La acera pública no requiere entrada. Dentro pueden pedir cita, identificación o autorización.",
+        "look": "Usa el nombre de la esquina Las Monjas para orientarte. En el casco histórico las esquinas con nombre complementan las direcciones de calle.",
+        "photo": "Desde la plaza, a la altura de Las Monjas, se abarca mejor la fachada municipal.",
+        "highlight": "El Museo Caracas comparte el palacio con dependencias municipales."
+      },
+      "zh": {
+        "name": "加拉加斯市政宫",
+        "intro": "这座市政宫既有利贝尔塔多尔市政机构，也有加拉加斯博物馆。办公入口与参观入口的开放安排可能不同。",
+        "walk": "从广场穿到拉斯蒙哈斯街角，在标牌处询问博物馆入口。返回街对面，可完整拍到一排窗户的节奏。",
+        "stops": [
+          "玻利瓦尔广场",
+          "拉斯蒙哈斯街角",
+          "加拉加斯博物馆"
+        ],
+        "hours": "公务安排可能限制入内。可优先安排外观游线，再向现场工作人员核实预约。",
+        "fees": "街边人行道无需购票。接待处以内可能需要预约、身份证件或参观许可。",
+        "look": "问路时可提拉斯蒙哈斯街角；加拉加斯老城常用传统街角名补充街道地址。",
+        "photo": "从广场靠近拉斯蒙哈斯的一侧，可将较完整的市政宫立面纳入镜头。",
+        "highlight": "市博物馆与市政机构共用这座建筑。"
+      }
+    }
+  },
+  {
+    "slug": "iglesia-de-san-francisco-caracas",
+    "address": "Esquina de San Francisco, Avenida Universidad, Caracas, Venezuela",
+    "operator": "Iglesia de San Francisco, Arquidiócesis de Caracas",
+    "category": "church",
+    "image": "/nearby/iglesia-de-san-francisco-caracas.jpg",
+    "source": "https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Caracas)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Francisco_Caracas.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20San%20Francisco%20%28Caracas%29%2C%20Esquina%20de%20San%20Francisco%2C%20Avenida%20Universidad%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Iglesia de San Francisco, Caracas",
+        "intro": "The church served a Franciscan convent. Its position beside the legislative quarter makes the short walk between church and Capitol a compact lesson in the old city’s institutions.",
+        "walk": "Start at San Francisco corner, inspect the doorway from the pavement, then move to the opposite side for the full façade. Visit the nave only between ceremonies.",
+        "stops": [
+          "Avenida Universidad",
+          "San Francisco corner",
+          "Church portal"
+        ],
+        "hours": "Check the current Mass schedule with the parish. A service takes precedence over a sightseeing visit.",
+        "fees": "Ask the parish separately about access to chapels or a guided visit.",
+        "look": "From across the street the church and neighbouring civic façades can be compared without moving the camera far. Return to the entrance for a closer look at the portal.",
+        "photo": "Photograph the portal from across the street and the stonework from the public approach.",
+        "highlight": "The building recalls the Franciscan convent once served by the church."
+      },
+      "es": {
+        "name": "Iglesia de San Francisco (Caracas)",
+        "intro": "El templo servía al convento franciscano. La cercanía del Capitolio permite recorrer en pocos pasos dos instituciones muy distintas del casco histórico.",
+        "walk": "Empieza en la esquina de San Francisco, observa la portada desde la acera y cruza para abarcar la fachada. Recorre la nave entre celebraciones.",
+        "stops": [
+          "Avenida Universidad",
+          "esquina de San Francisco",
+          "portada"
+        ],
+        "hours": "Consulta el horario de misas en la parroquia. El culto tiene prioridad sobre la visita.",
+        "fees": "Consulta por separado con la parroquia el acceso a capillas y las visitas guiadas.",
+        "look": "Desde la acera opuesta se comparan la iglesia y las fachadas cívicas contiguas. Vuelve al acceso para ver de cerca la portada.",
+        "photo": "Fotografía la portada desde enfrente y sus detalles desde la entrada pública.",
+        "highlight": "El templo remite a la historia del convento franciscano."
+      },
+      "zh": {
+        "name": "圣方济各堂",
+        "intro": "教堂曾服务于方济各会修院。从这里步行到国会大厦只需走过相邻街段，很适合比较老城宗教与世俗机构的布局。",
+        "walk": "从圣方济各街角出发，在人行道近看入口，再从对街取全景。礼仪间隙再进入中殿参观。",
+        "stops": [
+          "大学大道",
+          "圣方济各街角",
+          "教堂入口"
+        ],
+        "hours": "到堂区核对弥撒时间，参观以不干扰礼仪为前提。",
+        "fees": "侧堂或讲解活动的入场条件请向堂区另行询问。",
+        "look": "站在对侧可同时比较教堂与相邻公共建筑的街面；再回到教堂入口看门廊细节。",
+        "photo": "对街拍门廊整体，再从公共入口近看细部。",
+        "highlight": "这里保留了方济各会修院历史的线索。"
+      }
+    }
+  },
+  {
+    "slug": "teatro-municipal-de-caracas",
+    "address": "Esquina Municipal, Avenida Baralt, Caracas, Venezuela",
+    "operator": "Teatro Municipal de Caracas",
+    "category": "theatre",
+    "image": "/nearby/teatro-municipal-de-caracas.jpg",
+    "source": "https://es.wikipedia.org/wiki/Teatro_Municipal_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Municipal_de_caracas.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Teatro%20Municipal%20de%20Caracas%2C%20Esquina%20Municipal%2C%20Avenida%20Baralt%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Teatro Municipal de Caracas",
+        "intro": "Caracas opened this opera house in 1881. The curve of its auditorium volume and its setting by the busy avenue reveal an earlier theatre district within the modern street network.",
+        "walk": "Approach on the public sidewalk at Esquina Municipal, compare the entrance front with the curved flank and finish at the box office. Use a crossing to reach a wider photographic angle.",
+        "stops": [
+          "Avenida Baralt",
+          "Municipal corner",
+          "Box office"
+        ],
+        "hours": "Use the time printed on the venue’s current programme. Box-office opening, doors and curtain time are separate.",
+        "fees": "Prices and seating depend on the specific performance. Check the hall, seat and ticket conditions before paying.",
+        "look": "Walk around the public side as well as the main entrance. The outline of the auditorium gives a better sense of the theatre than a close-up of its sign.",
+        "photo": "Look for a diagonal angle that includes both the entrance and the auditorium flank.",
+        "highlight": "The 1881 auditorium is a surviving landmark of Caracas opera."
+      },
+      "es": {
+        "name": "Teatro Municipal de Caracas",
+        "intro": "Este teatro de ópera abrió en 1881. La curva de su volumen y su relación con la avenida permiten leer el antiguo distrito teatral dentro del trazado actual.",
+        "walk": "Llega por la acera de la esquina Municipal, compara el acceso con el lateral curvo y termina en la taquilla. Usa el cruce peatonal para tomar distancia fotográfica.",
+        "stops": [
+          "Avenida Baralt",
+          "esquina Municipal",
+          "taquilla"
+        ],
+        "hours": "Consulta la cartelera vigente. El horario de taquilla, la apertura de puertas y el inicio de la función son distintos.",
+        "fees": "El precio depende de la función y la localidad. Comprueba la sala, el asiento y las condiciones antes de pagar.",
+        "look": "Recorre también el lateral público. El contorno de la sala explica mejor el teatro que un primer plano del rótulo.",
+        "photo": "Busca una diagonal que incluya la entrada y el lateral de la sala.",
+        "highlight": "La sala inaugurada en 1881 es un referente de la ópera caraqueña."
+      },
+      "zh": {
+        "name": "加拉加斯市立剧院",
+        "intro": "这座歌剧院于1881年启用。弧形的剧场体量与车流密集的大道相邻，留下老城演艺街区的线索。",
+        "walk": "从市立剧院街角沿人行道靠近，对比正门与弧形侧翼，最后到售票处查看节目。经斑马线到对街拍全景。",
+        "stops": [
+          "巴拉尔特大道",
+          "剧院街角",
+          "售票处"
+        ],
+        "hours": "以场馆当期节目表为准，售票处营业、观众入场和开演是三个不同时间。",
+        "fees": "票价随演出及座位变化，付款前先核对厅名、座席和退换条件。",
+        "look": "除了正门，还可沿公共人行道走到侧面。观众厅的轮廓比招牌特写更能表现剧场结构。",
+        "photo": "从斜侧面取景，可同时看到入口和剧场侧翼。",
+        "highlight": "1881年启用的剧场见证加拉加斯的歌剧传统。"
+      }
+    }
+  },
+  {
+    "slug": "teatro-nacional-de-venezuela",
+    "address": "Esquina de Cipreses, Santa Teresa, Caracas, Venezuela",
+    "operator": "Teatro Nacional de Caracas",
+    "category": "theatre",
+    "image": "/nearby/teatro-nacional-de-venezuela.JPG",
+    "source": "https://es.wikipedia.org/wiki/Teatro_Nacional_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_de_Noche.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Teatro%20Nacional%20de%20Venezuela%2C%20Esquina%20de%20Cipreses%2C%20Santa%20Teresa%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Teatro Nacional de Venezuela",
+        "intro": "The National Theatre adds an intimate performance space to the Santa Teresa quarter. Its ornamented front announces the stage well before the audience sees the auditorium.",
+        "walk": "Approach Cipreses corner from the Teatro Nacional metro area, inspect the masks above the entrance and read the programme at the door. Keep the queue and pedestrian crossing clear.",
+        "stops": [
+          "Teatros metro",
+          "Cipreses corner",
+          "Main entrance"
+        ],
+        "hours": "Use the time printed on the venue’s current programme. Box-office opening, doors and curtain time are separate.",
+        "fees": "Prices and seating depend on the specific performance. Check the hall, seat and ticket conditions before paying.",
+        "look": "Look above eye level at the entrance before joining the evening queue. The theatrical ornament is easier to read in daylight.",
+        "photo": "Frame the entrance at Cipreses before people queue for the performance.",
+        "highlight": "The entrance ornament links the street façade with the performing arts."
+      },
+      "es": {
+        "name": "Teatro Nacional de Venezuela",
+        "intro": "El Teatro Nacional aporta una sala de espectáculos al sector Santa Teresa. La fachada ornamentada anticipa la experiencia escénica antes de entrar en la sala.",
+        "walk": "Acércate a la esquina de Cipreses desde el sector del metro Teatros, mira las máscaras sobre el acceso y consulta la cartelera. Deja libres la cola y el cruce.",
+        "stops": [
+          "Metro Teatros",
+          "esquina de Cipreses",
+          "entrada principal"
+        ],
+        "hours": "Consulta la cartelera vigente. El horario de taquilla, la apertura de puertas y el inicio de la función son distintos.",
+        "fees": "El precio depende de la función y la localidad. Comprueba la sala, el asiento y las condiciones antes de pagar.",
+        "look": "Mira por encima de la entrada antes de entrar en la fila. La ornamentación teatral se lee mejor con luz diurna.",
+        "photo": "Encuadra la entrada en Cipreses antes de que se forme la fila.",
+        "highlight": "La ornamentación de la portada evoca las artes escénicas."
+      },
+      "zh": {
+        "name": "委内瑞拉国家剧院",
+        "intro": "国家剧院坐落在圣特雷莎街区。即使还未进入观众厅，临街的装饰立面已经展现出一座老剧院的仪式感。",
+        "walk": "从Teatros地铁站一带走向西普雷塞斯街角，抬头看门上方的面具装饰，再到入口查看节目表。拍照时避开队列与路口。",
+        "stops": [
+          "Teatros地铁站",
+          "西普雷塞斯街角",
+          "正门"
+        ],
+        "hours": "以场馆当期节目表为准，售票处营业、观众入场和开演是三个不同时间。",
+        "fees": "票价随演出及座位变化，付款前先核对厅名、座席和退换条件。",
+        "look": "排队前抬头看门上装饰；日间光线更容易看清与舞台相关的图案。",
+        "photo": "开演排队前从西普雷塞斯街角拍入口装饰。",
+        "highlight": "入口装饰直接呼应舞台表演主题。"
+      }
+    }
+  },
+  {
+    "slug": "teresa-carreno-cultural-complex",
+    "address": "Final de la avenida Paseo Colón, Bellas Artes, Caracas, Venezuela",
+    "operator": "Fundación Teatro Teresa Carreño",
+    "category": "theatre",
+    "image": "/nearby/teresa-carreno-cultural-complex.jpg",
+    "source": "https://es.wikipedia.org/wiki/Teatro_Teresa_Carre%C3%B1o",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Vista_Teatro_teresa_carre%C3%B1o.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Teatro%20Teresa%20Carre%C3%B1o%2C%20Final%20de%20la%20avenida%20Paseo%20Col%C3%B3n%2C%20Bellas%20Artes%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Teresa Carreño Cultural Complex",
+        "intro": "Named for pianist Teresa Carreño, the complex contains the Ríos Reyna and José Félix Ribas halls. Its broad exterior terraces change the scale of the walk from the nearby museum square.",
+        "walk": "Walk from Plaza de los Museos to the public forecourt; look along the terraces, then check which hall appears on the ticket before joining a queue.",
+        "stops": [
+          "Museum square",
+          "Forecourt",
+          "Ticketed hall"
+        ],
+        "hours": "Use the time printed on the venue’s current programme. Box-office opening, doors and curtain time are separate.",
+        "fees": "Prices and seating depend on the specific performance. Check the hall, seat and ticket conditions before paying.",
+        "look": "Massive concrete forms alternate with planted and open spaces. From the forecourt, follow their shadows to see how the upper levels overlap.",
+        "photo": "Use the edge of the forecourt for a diagonal across the terraces.",
+        "highlight": "Two differently scaled halls share one cultural complex."
+      },
+      "es": {
+        "name": "Teatro Teresa Carreño",
+        "intro": "Dedicado a la pianista Teresa Carreño, el conjunto alberga las salas Ríos Reyna y José Félix Ribas. Sus terrazas amplían el recorrido desde la vecina plaza de los Museos.",
+        "walk": "Camina desde la plaza de los Museos a la explanada, observa las terrazas y comprueba qué sala figura en la entrada antes de hacer fila.",
+        "stops": [
+          "Plaza de los Museos",
+          "explanada",
+          "sala indicada en la entrada"
+        ],
+        "hours": "Consulta la cartelera vigente. El horario de taquilla, la apertura de puertas y el inicio de la función son distintos.",
+        "fees": "El precio depende de la función y la localidad. Comprueba la sala, el asiento y las condiciones antes de pagar.",
+        "look": "Los grandes volúmenes de concreto alternan con áreas abiertas y vegetación. Desde la explanada, las sombras muestran la superposición de niveles.",
+        "photo": "Desde un borde de la explanada toma una diagonal de las terrazas.",
+        "highlight": "Dos salas de distinta escala forman parte del mismo complejo."
+      },
+      "zh": {
+        "name": "特蕾莎·卡雷尼奥文化中心",
+        "intro": "文化中心以钢琴家特蕾莎·卡雷尼奥命名，设有里奥斯·雷纳厅与何塞·费利克斯·里巴斯厅。宽阔露台与邻近博物馆广场形成连贯的步行体验。",
+        "walk": "从博物馆广场走到前庭，沿露台方向观察建筑层次，再按票面标注的厅名排队。",
+        "stops": [
+          "博物馆广场",
+          "前庭",
+          "票面所示演出厅"
+        ],
+        "hours": "以场馆当期节目表为准，售票处营业、观众入场和开演是三个不同时间。",
+        "fees": "票价随演出及座位变化，付款前先核对厅名、座席和退换条件。",
+        "look": "大体量混凝土与植物、开放空间交替。站在前庭可借助阴影观察不同楼层相互叠合的关系。",
+        "photo": "从前庭边缘沿对角线拍摄层叠露台。",
+        "highlight": "两个尺度不同的演出厅共处于一座文化综合体。"
+      }
+    }
+  },
+  {
+    "slug": "museum-of-fine-arts-caracas",
+    "address": "Plaza de los Museos, Bellas Artes, Caracas, Venezuela",
+    "operator": "Fundación Museos Nacionales",
+    "category": "museum",
+    "image": "/nearby/museum-of-fine-arts-caracas.jpg",
+    "source": "https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Museo_de_Bellas_Artes_de_Caracas.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Bellas%20Artes%20de%20Caracas%2C%20Plaza%20de%20los%20Museos%2C%20Bellas%20Artes%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Museum of Fine Arts, Caracas",
+        "intro": "The fine arts museum is part of a pair of civic museums facing the same square. Compare its ordered classical façade with the later modern building before going inside.",
+        "walk": "Cross the plaza from the science museum, pause opposite the columns for a frontal view and ask at reception which galleries connect that day.",
+        "stops": [
+          "Museum square",
+          "Colonnade",
+          "Reception"
+        ],
+        "hours": "Ask the museum desk which galleries are open and the last admission time. Exhibition changeovers can affect individual rooms.",
+        "fees": "Check the current exhibition’s admission conditions with the museum before travelling, especially for groups and guided tours.",
+        "look": "Allow time for the relationship between buildings as well as the collection. The plaza offers a direct comparison of civic architecture around the two museums.",
+        "photo": "Stand across the museum square to include the colonnade in one view.",
+        "highlight": "The classical and modern building volumes are worth comparing."
+      },
+      "es": {
+        "name": "Museo de Bellas Artes de Caracas",
+        "intro": "El museo integra el conjunto de instituciones frente a la misma plaza. Compara la fachada clásica con el edificio moderno antes de entrar.",
+        "walk": "Cruza desde el Museo de Ciencias, detente frente a las columnas y pregunta en recepción qué salas comunican ese día.",
+        "stops": [
+          "Plaza de los Museos",
+          "columnata",
+          "recepción"
+        ],
+        "hours": "Pregunta al museo por las salas abiertas y la última admisión. Los cambios de exposición pueden afectar una sala concreta.",
+        "fees": "Comprueba con el museo las condiciones vigentes de la exposición, sobre todo para grupos y visitas guiadas.",
+        "look": "Dedica tiempo a los edificios además de las obras. En la plaza pueden compararse directamente las arquitecturas de ambos museos.",
+        "photo": "Sitúate al otro lado de la plaza para abarcar la columnata.",
+        "highlight": "Vale la pena comparar los volúmenes clásico y moderno."
+      },
+      "zh": {
+        "name": "加拉加斯美术馆",
+        "intro": "美术馆与科学博物馆共享同一广场。先从广场上比较古典立面与后来的现代馆舍，再进入展厅，更容易看懂场地的演变。",
+        "walk": "从科学博物馆横过广场，在柱列正对面停留，然后到接待处确认当日可通行的展厅。",
+        "stops": [
+          "博物馆广场",
+          "柱廊",
+          "接待处"
+        ],
+        "hours": "先向馆方确认开放展厅和最晚入场时间；换展期间部分展室可能单独关闭。",
+        "fees": "出发前向馆方核对当期展览的入场办法，团体预约与导览须单独询问。",
+        "look": "除了馆藏，也留时间观察场馆。广场是比较两座博物馆公共建筑风格的合适位置。",
+        "photo": "站在广场对侧，可完整拍摄柱廊。",
+        "highlight": "两期不同风格的馆舍值得并看。"
+      }
+    }
+  },
+  {
+    "slug": "science-museum-of-caracas",
+    "address": "Plaza de los Museos, acceso desde Los Caobos, Caracas, Venezuela",
+    "operator": "Fundación Museos Nacionales",
+    "category": "museum",
+    "image": "/nearby/science-museum-of-caracas.jpg",
+    "source": "https://es.wikipedia.org/wiki/Museo_de_Ciencias_(Venezuela)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Science_Museum_of_Caracas.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Ciencias%20de%20Caracas%2C%20Plaza%20de%20los%20Museos%2C%20acceso%20desde%20Los%20Caobos%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Science Museum of Caracas",
+        "intro": "Venezuela’s natural history museum anchors the edge of Los Caobos. Its scientific collections give the park walk a different scale, moving attention from street trees to specimens and habitats.",
+        "walk": "Approach from the park edge, locate the museum name before crossing the shared plaza and choose an open natural history gallery at reception. Frame the entrance from the square.",
+        "stops": [
+          "Los Caobos Park",
+          "Museum square",
+          "Science museum"
+        ],
+        "hours": "Ask the museum desk which galleries are open and the last admission time. Exhibition changeovers can affect individual rooms.",
+        "fees": "Check the current exhibition’s admission conditions with the museum before travelling, especially for groups and guided tours.",
+        "look": "Choose one habitat or group of animals to follow through the displays. The labels provide a better route than trying to see every specimen in order.",
+        "photo": "Use the approach from Los Caobos to include the museum’s relationship to the park.",
+        "highlight": "Natural history collections distinguish this venue from its fine arts neighbour."
+      },
+      "es": {
+        "name": "Museo de Ciencias de Caracas",
+        "intro": "El museo nacional de historia natural se asoma a Los Caobos. Sus colecciones cambian la escala del paseo, de los árboles del parque a los especímenes y hábitats.",
+        "walk": "Llega desde el borde del parque, identifica el nombre del museo en la plaza compartida y elige en recepción una sala de historia natural abierta. Fotografía el acceso desde la plaza.",
+        "stops": [
+          "Los Caobos",
+          "Plaza de los Museos",
+          "Museo de Ciencias"
+        ],
+        "hours": "Pregunta al museo por las salas abiertas y la última admisión. Los cambios de exposición pueden afectar una sala concreta.",
+        "fees": "Comprueba con el museo las condiciones vigentes de la exposición, sobre todo para grupos y visitas guiadas.",
+        "look": "Elige un hábitat o grupo animal como hilo conductor. Las fichas dan un recorrido más claro que intentar ver todos los ejemplares en orden.",
+        "photo": "Desde el acceso de Los Caobos encuadra el museo en relación con el parque.",
+        "highlight": "La colección de historia natural distingue este museo del vecino de bellas artes."
+      },
+      "zh": {
+        "name": "加拉加斯科学博物馆",
+        "intro": "国家自然史博物馆临近洛斯考沃斯公园。游览可从公园的大树转向馆内的标本和栖息地展示，用不同尺度观察自然。",
+        "walk": "从公园边缘走向广场，先确认科学博物馆的馆名，再在接待处选择开放的自然史展厅。从广场取入口全景。",
+        "stops": [
+          "洛斯考沃斯公园",
+          "博物馆广场",
+          "科学博物馆"
+        ],
+        "hours": "先向馆方确认开放展厅和最晚入场时间；换展期间部分展室可能单独关闭。",
+        "fees": "出发前向馆方核对当期展览的入场办法，团体预约与导览须单独询问。",
+        "look": "可选一种栖息地或动物群作为参观线索，跟随说明牌观察，比按顺序匆匆浏览所有标本更清楚。",
+        "photo": "在公园侧入口取景，可同时表现博物馆与绿地的关系。",
+        "highlight": "自然史是本馆主题，和邻近美术馆的收藏方向不同。"
+      }
+    }
+  },
+  {
+    "slug": "national-art-gallery-caracas",
+    "address": "Avenida México, La Candelaria, Caracas, Venezuela",
+    "operator": "Fundación Museos Nacionales",
+    "category": "museum",
+    "image": "/nearby/national-art-gallery-caracas.jpg",
+    "source": "https://es.wikipedia.org/wiki/Galer%C3%ADa_de_Arte_Nacional_(Caracas)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_de_Arte_Nacional_de_Venezuela.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20de%20Arte%20Nacional%20%28Caracas%29%2C%20Avenida%20M%C3%A9xico%2C%20La%20Candelaria%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "National Art Gallery (Caracas)",
+        "intro": "The national gallery focuses on visual art from Venezuela. Its present building is distinct from the neoclassical museum on Plaza de los Museos where the gallery once operated.",
+        "walk": "Use the Avenida México address, inspect the exhibition board at the entrance and choose a period before moving between galleries. Step outside for a view of the long frontage.",
+        "stops": [
+          "Avenida México",
+          "Gallery entrance",
+          "Exhibition room"
+        ],
+        "hours": "Ask the museum desk which galleries are open and the last admission time. Exhibition changeovers can affect individual rooms.",
+        "fees": "Check the current exhibition’s admission conditions with the museum before travelling, especially for groups and guided tours.",
+        "look": "Start by checking the dates and artists named on the current exhibition list. A thematic hang may cross several periods of Venezuelan art.",
+        "photo": "From the Avenida México sidewalk look for an oblique view along the gallery façade.",
+        "highlight": "Its collection concentrates on art produced in Venezuela."
+      },
+      "es": {
+        "name": "Galería de Arte Nacional (Caracas)",
+        "intro": "La galería se dedica al arte venezolano. Su edificio actual es distinto del museo neoclásico de la plaza de los Museos que ocupó anteriormente.",
+        "walk": "Usa el acceso de la avenida México, consulta las exposiciones y elige un período antes de pasar de sala. Desde fuera se aprecia la longitud de la fachada.",
+        "stops": [
+          "Avenida México",
+          "entrada GAN",
+          "sala de exposición"
+        ],
+        "hours": "Pregunta al museo por las salas abiertas y la última admisión. Los cambios de exposición pueden afectar una sala concreta.",
+        "fees": "Comprueba con el museo las condiciones vigentes de la exposición, sobre todo para grupos y visitas guiadas.",
+        "look": "Revisa las fechas y artistas de la exposición vigente. Un montaje temático puede reunir varios períodos del arte venezolano.",
+        "photo": "En la acera de la avenida México busca una vista oblicua de la fachada.",
+        "highlight": "Su colección se concentra en la producción artística venezolana."
+      },
+      "zh": {
+        "name": "委内瑞拉国家美术馆",
+        "intro": "国家美术馆专门收藏、展示委内瑞拉艺术。如今的场馆与过去使用过的博物馆广场新古典建筑并非同一处。",
+        "walk": "按墨西哥大道地址抵达入口，看展讯后选定一个时期再进展厅。回到街边，可清楚观察建筑的长立面。",
+        "stops": [
+          "墨西哥大道",
+          "美术馆入口",
+          "展厅"
+        ],
+        "hours": "先向馆方确认开放展厅和最晚入场时间；换展期间部分展室可能单独关闭。",
+        "fees": "出发前向馆方核对当期展览的入场办法，团体预约与导览须单独询问。",
+        "look": "先看当期展讯上的年代与艺术家信息，主题展可能把多个时期的委内瑞拉艺术放在一起呈现。",
+        "photo": "在墨西哥大道人行道上沿建筑长边斜向取景。",
+        "highlight": "馆藏重点是委内瑞拉的艺术创作。"
+      }
+    }
+  },
+  {
+    "slug": "contemporary-art-museum-of-caracas",
+    "address": "Parque Central, avenida Bolívar, Caracas, Venezuela",
+    "operator": "Fundación Museos Nacionales",
+    "category": "museum",
+    "image": "/nearby/contemporary-art-museum-of-caracas.JPG",
+    "source": "https://es.wikipedia.org/wiki/Museo_de_Arte_Contempor%C3%A1neo_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Museo_arte_Caracas.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Contempor%C3%A1neo%20de%20Caracas%2C%20Parque%20Central%2C%20avenida%20Bol%C3%ADvar%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Contemporary Art Museum of Caracas",
+        "intro": "The contemporary collection belongs to the Parque Central cultural district. This is a museum inside a large mixed-use complex; finding the museum entrance matters more than simply reaching the towers.",
+        "walk": "Start on the public concourse, follow the museum name rather than an office tower sign and ask the desk for the first open gallery. Photograph the ensemble outside the exhibition rooms.",
+        "stops": [
+          "Avenida Bolívar",
+          "Parque Central",
+          "Museum reception"
+        ],
+        "hours": "Ask the museum desk which galleries are open and the last admission time. Exhibition changeovers can affect individual rooms.",
+        "fees": "Check the current exhibition’s admission conditions with the museum before travelling, especially for groups and guided tours.",
+        "look": "The museum and the twin towers share an urban complex but serve different purposes. Follow the exhibition signs rather than the office lift directories.",
+        "photo": "Use the museum entrance sign as a reference in an exterior shot of the concourse.",
+        "highlight": "The collection is encountered within a mixed-use tower complex."
+      },
+      "es": {
+        "name": "Museo de Arte Contemporáneo de Caracas",
+        "intro": "La colección contemporánea forma parte del circuito de Parque Central. El museo está dentro de un complejo de usos mixtos, por lo que conviene localizar su acceso específico.",
+        "walk": "Empieza en el paso público, sigue el nombre del museo en vez de la señalización de oficinas y pregunta por la primera sala abierta. Fotografía el conjunto fuera de las salas.",
+        "stops": [
+          "Avenida Bolívar",
+          "Parque Central",
+          "recepción del museo"
+        ],
+        "hours": "Pregunta al museo por las salas abiertas y la última admisión. Los cambios de exposición pueden afectar una sala concreta.",
+        "fees": "Comprueba con el museo las condiciones vigentes de la exposición, sobre todo para grupos y visitas guiadas.",
+        "look": "El museo y las torres comparten conjunto, pero cumplen funciones distintas. Sigue la señalización de exposiciones y no la de ascensores de oficinas.",
+        "photo": "Incluye el nombre del museo al fotografiar el acceso desde el paso público.",
+        "highlight": "La colección se visita dentro de un conjunto urbano de usos mixtos."
+      },
+      "zh": {
+        "name": "加拉加斯当代艺术博物馆",
+        "intro": "当代艺术馆处于中央公园综合体的文化区。双塔是认路地标，但走到双塔并不等于找到了展馆入口。",
+        "walk": "从面向公众的通道出发，跟随美术馆标识而非办公楼标识，在服务台询问开放展厅。综合体全景适合在展厅外拍摄。",
+        "stops": [
+          "玻利瓦尔大道",
+          "中央公园综合体",
+          "博物馆前台"
+        ],
+        "hours": "先向馆方确认开放展厅和最晚入场时间；换展期间部分展室可能单独关闭。",
+        "fees": "出发前向馆方核对当期展览的入场办法，团体预约与导览须单独询问。",
+        "look": "美术馆与双塔同属一个综合体，但用途各异。请跟随展览标示，而不是办公电梯的楼层目录。",
+        "photo": "拍摄公共通道入口时，可将馆名标识一起纳入。",
+        "highlight": "馆舍所在的多功能都市综合体也是看点。"
+      }
+    }
+  },
+  {
+    "slug": "los-caobos-park",
+    "address": "Parque Los Caobos, Plaza de los Museos, Caracas, Venezuela",
+    "operator": "Parque Los Caobos",
+    "category": "park",
+    "image": "/nearby/los-caobos-park.jpg",
+    "source": "https://es.wikipedia.org/wiki/Parque_Los_Caobos",
+    "photoSource": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fuente_Venezuela_-_esculturas_-_Parque_Los_Caobos_-_Caracas_-_Venezuela_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "map": "https://www.google.com/maps/search/?api=1&query=Parque%20Los%20Caobos%2C%20Parque%20Los%20Caobos%2C%20Plaza%20de%20los%20Museos%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Los Caobos Park",
+        "intro": "Large shade trees mark the transition from the museums into a city park. The Fuente Venezuela represents regions of the country through sculpture and makes a distinct turning point in the walk.",
+        "walk": "Enter from the museum square, follow the main pedestrian path to Fuente Venezuela and circle its accessible edge. Return beneath the trees for a shaded view towards the museums.",
+        "stops": [
+          "Museum square",
+          "Main path",
+          "Venezuela Fountain"
+        ],
+        "hours": "Use the notice at the gate for the day’s closing time. Rain or maintenance can affect individual paths.",
+        "fees": "Ask the park gate about any charge for special facilities; an activity inside can have separate conditions.",
+        "look": "At the fountain, compare figures on different sides before choosing a photograph. Movement around the edge reveals details hidden in the frontal view.",
+        "photo": "Walk around Fuente Venezuela for a side angle on the sculpted figures.",
+        "highlight": "The fountain’s figures evoke different Venezuelan regions."
+      },
+      "es": {
+        "name": "Parque Los Caobos",
+        "intro": "Los árboles de sombra señalan el paso de los museos al parque. La Fuente Venezuela representa regiones del país con esculturas y ofrece una referencia clara en el paseo.",
+        "walk": "Entra por la plaza de los Museos, sigue la senda principal hasta la Fuente Venezuela y bordea la parte accesible. Regresa bajo las copas hacia los museos.",
+        "stops": [
+          "Plaza de los Museos",
+          "paseo principal",
+          "Fuente Venezuela"
+        ],
+        "hours": "Consulta en la puerta el cierre del día. La lluvia o el mantenimiento pueden afectar senderos específicos.",
+        "fees": "Consulta en la entrada los cobros por instalaciones especiales; cada actividad puede tener condiciones propias.",
+        "look": "Antes de tomar la foto, compara las figuras desde distintos lados de la fuente. El recorrido lateral revela detalles que se ocultan de frente.",
+        "photo": "Rodea la Fuente Venezuela para ver de perfil las figuras esculpidas.",
+        "highlight": "Las figuras de la fuente evocan regiones venezolanas."
+      },
+      "zh": {
+        "name": "洛斯考沃斯公园",
+        "intro": "从博物馆区走入公园，宽阔树荫标志着环境的变化。委内瑞拉喷泉用雕像表现国内不同区域，也是路线中容易辨认的折返点。",
+        "walk": "从博物馆广场入口沿主步道走到委内瑞拉喷泉，绕可通行的一侧观察雕像，再沿林荫路返回博物馆方向。",
+        "stops": [
+          "博物馆广场",
+          "主步道",
+          "委内瑞拉喷泉"
+        ],
+        "hours": "到入口看当天闭园时间，雨后或维护期间部分小径可能临时停用。",
+        "fees": "到入口询问专用设施收费，园内活动项目可能有独立条件。",
+        "look": "拍摄前沿喷泉外圈换几个方向观察。侧面的雕像姿态和相互关系，在正对喷泉时往往看不全。",
+        "photo": "绕喷泉到侧面，从侧视角观察雕塑。",
+        "highlight": "喷泉雕像以不同造型表现委内瑞拉各区域。"
+      }
+    }
+  },
+  {
+    "slug": "caracas-botanical-garden",
+    "address": "Jardín Botánico UCV, entrada Plaza Venezuela, Caracas, Venezuela",
+    "operator": "Universidad Central de Venezuela",
+    "category": "garden",
+    "image": "/nearby/caracas-botanical-garden.jpg",
+    "source": "https://es.wikipedia.org/wiki/Jard%C3%ADn_bot%C3%A1nico_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Palmera_a_Contarluz.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Jard%C3%ADn%20Bot%C3%A1nico%20de%20Caracas%2C%20Jard%C3%ADn%20Bot%C3%A1nico%20UCV%2C%20entrada%20Plaza%20Venezuela%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Caracas Botanical Garden",
+        "intro": "The botanical garden forms part of the university’s World Heritage ensemble. Beds and collections are arranged for study, so a labelled palm can reveal more than a hurried walk through the whole site.",
+        "walk": "Approach the marked garden gate from the Plaza Venezuela side, ask which collections are open and compare leaf forms in the palm collection. Keep tripods and feet outside planted beds.",
+        "stops": [
+          "Plaza Venezuela",
+          "Garden gate",
+          "Palm collection"
+        ],
+        "hours": "Check with the university garden before travelling, particularly on weekends or when a collection is under maintenance.",
+        "fees": "Confirm entry, group booking and guided activities directly with the botanical garden.",
+        "look": "Compare the trunks and arrangement of fronds on two labelled palms. Take the label and plant in separate photographs so identification remains possible afterwards.",
+        "photo": "Frame the canopy from the garden path, then take a close-up of a labelled frond.",
+        "highlight": "The palms form a living teaching collection."
+      },
+      "es": {
+        "name": "Jardín Botánico de Caracas",
+        "intro": "El jardín forma parte del conjunto universitario inscrito como Patrimonio Mundial. Sus colecciones se organizan para el estudio; vale la pena detenerse ante una palma identificada.",
+        "walk": "Acércate al acceso señalizado desde Plaza Venezuela, pregunta qué colecciones están abiertas y compara las hojas de las palmas. Mantén los pies y el trípode fuera de los canteros.",
+        "stops": [
+          "Plaza Venezuela",
+          "acceso al jardín",
+          "colección de palmas"
+        ],
+        "hours": "Consulta al jardín universitario antes de salir, especialmente en fines de semana o durante labores de mantenimiento.",
+        "fees": "Confirma con el jardín la entrada, las reservas de grupos y las actividades guiadas.",
+        "look": "Compara troncos y disposición de hojas en dos palmas identificadas. Fotografía la placa y el ejemplar por separado para reconocerlo después.",
+        "photo": "Encuadra las copas desde la senda y después una hoja identificada de cerca.",
+        "highlight": "Las palmas forman una colección viva de estudio."
+      },
+      "zh": {
+        "name": "加拉加斯植物园",
+        "intro": "植物园属于列入世界遗产的大学城。园内植物按教学研究需求组织，细读一块棕榈科标牌往往比匆匆走遍全园更有收获。",
+        "walk": "从委内瑞拉广场一侧寻找植物园入口，询问当天开放的植物区，再到棕榈区比较叶形。双脚和三脚架都请留在花圃外。",
+        "stops": [
+          "委内瑞拉广场",
+          "植物园入口",
+          "棕榈植物区"
+        ],
+        "hours": "出发前联系大学植物园，周末或标本区养护时尤其要核实开放区域。",
+        "fees": "入园、团体预约与讲解服务请分别向植物园核实。",
+        "look": "选两株带标牌的棕榈，比较树干与叶序。植物和标牌分别拍一张，离园后仍能准确辨认。",
+        "photo": "从园路先拍树冠，再近拍一片带标识的棕榈叶。",
+        "highlight": "棕榈区本身就是活的研究收藏。"
+      }
+    }
+  },
+  {
+    "slug": "university-city-of-caracas",
+    "address": "Plaza Cubierta, Ciudad Universitaria de Caracas, Caracas, Venezuela",
+    "operator": "Universidad Central de Venezuela",
+    "category": "campus",
+    "image": "/nearby/university-city-of-caracas.jpg",
+    "source": "https://es.wikipedia.org/wiki/Ciudad_Universitaria_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Biblioteca_de_la_Universidad_Central_de_Venezuela.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Ciudad%20Universitaria%20de%20Caracas%2C%20Plaza%20Cubierta%2C%20Ciudad%20Universitaria%20de%20Caracas%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "University City of Caracas",
+        "intro": "Carlos Raúl Villanueva brought art and architecture together on this working campus. Its covered paths allow a gradual transition from bright courtyards to shaded spaces beneath artworks.",
+        "walk": "Enter through a public university access, find the covered plaza next to the Aula Magna and walk the sheltered route towards the library. Leave classroom doors and student passages clear.",
+        "stops": [
+          "Campus entrance",
+          "Covered plaza",
+          "Central Library"
+        ],
+        "hours": "Teaching takes priority. Confirm the public access point and whether an interior tour is running on your visit date.",
+        "fees": "Admission to a lecture hall, event or guided route is separate from walking the open campus paths.",
+        "look": "In the covered plaza the architecture frames views from shade into sunlight. Pause under cover and look out rather than always photographing towards the buildings.",
+        "photo": "Shoot from beneath the covered plaza towards an open courtyard.",
+        "highlight": "The campus combines works of art with everyday university circulation."
+      },
+      "es": {
+        "name": "Ciudad Universitaria de Caracas",
+        "intro": "Carlos Raúl Villanueva integró arte y arquitectura en esta universidad en funcionamiento. Sus corredores cubiertos enlazan patios luminosos con espacios de sombra y obras de arte.",
+        "walk": "Entra por un acceso público de la UCV, localiza la Plaza Cubierta junto al Aula Magna y sigue el paso cubierto hacia la biblioteca. No obstruyas aulas ni pasillos.",
+        "stops": [
+          "Acceso UCV",
+          "Plaza Cubierta",
+          "Biblioteca Central"
+        ],
+        "hours": "La docencia tiene prioridad. Confirma el acceso público y las visitas interiores disponibles ese día.",
+        "fees": "El acceso a un auditorio, evento o recorrido guiado es independiente del paseo por los caminos abiertos del campus.",
+        "look": "La Plaza Cubierta enmarca vistas desde la sombra hacia la luz. Detente bajo techo y mira hacia el exterior además de fotografiar los edificios.",
+        "photo": "Desde la Plaza Cubierta fotografía hacia un patio abierto.",
+        "highlight": "El campus integra obras de arte en la circulación universitaria cotidiana."
+      },
+      "zh": {
+        "name": "加拉加斯大学城",
+        "intro": "卡洛斯·劳尔·维拉努埃瓦在仍然使用的校园中融合了现代建筑与艺术。沿遮蔽步道行走，可以体会明亮庭院与艺术品下方阴影之间的变化。",
+        "walk": "从开放的校园入口进入，在大会堂旁找到有盖广场，沿遮蔽通道走向图书馆。不要挡住教室门口或学生通行线路。",
+        "stops": [
+          "校园入口",
+          "有盖广场",
+          "中央图书馆"
+        ],
+        "hours": "教学优先。到访前向校方确认公众入口和当日室内参观安排。",
+        "fees": "开放通道的步行参观与进入礼堂、参加活动或预约导览分别安排。",
+        "look": "有盖广场把阴影中的游人视线引向日光充足的室外。除了面向建筑拍摄，也可从顶棚下回望明亮庭院。",
+        "photo": "在有盖广场屋顶下朝开敞庭院方向取景。",
+        "highlight": "艺术作品与校园日常通行路线融为一体。"
+      }
+    }
+  },
+  {
+    "slug": "aula-magna-central-university-of-venezuela",
+    "address": "Plaza Cubierta, Universidad Central de Venezuela, Caracas, Venezuela",
+    "operator": "Universidad Central de Venezuela",
+    "category": "theatre",
+    "image": "/nearby/aula-magna-central-university-of-venezuela.jpg",
+    "source": "https://en.wikipedia.org/wiki/Aula_Magna_(Central_University_of_Venezuela)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Aula_Magna_Caracas_aeriel.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Aula%20Magna%20de%20la%20Universidad%20Central%20de%20Venezuela%2C%20Plaza%20Cubierta%2C%20Universidad%20Central%20de%20Venezuela%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Aula Magna (Central University of Venezuela)",
+        "intro": "Inside the Aula Magna, Alexander Calder’s suspended acoustic clouds join sculpture to the engineering of the hall. An exterior campus walk gives a view of the setting but cannot show those suspended panels.",
+        "walk": "From the university library, follow the covered walkway to the auditorium doors. Locate the public entrance, then check for a performance or authorised visit before attempting the interior.",
+        "stops": [
+          "Central Library",
+          "Covered plaza",
+          "Aula Magna"
+        ],
+        "hours": "Use the time printed on the venue’s current programme. Box-office opening, doors and curtain time are separate.",
+        "fees": "Prices and seating depend on the specific performance. Check the hall, seat and ticket conditions before paying.",
+        "look": "When the hall is open, view the coloured panels from a permitted seat. Their varying angles and sizes are part of how the room handles sound.",
+        "photo": "If interior photography is permitted, take a wide view of the ceiling from your seat.",
+        "highlight": "Calder’s acoustic clouds are suspended over the auditorium."
+      },
+      "es": {
+        "name": "Aula Magna de la Universidad Central de Venezuela",
+        "intro": "En el Aula Magna, las Nubes Acústicas de Alexander Calder unen escultura y acústica. Desde el campus se reconoce el edificio, pero los paneles se ven en el interior de la sala.",
+        "walk": "Desde la biblioteca universitaria, sigue el corredor cubierto hasta las puertas del auditorio. Localiza la entrada y consulta la función o visita autorizada para ver la sala.",
+        "stops": [
+          "Biblioteca Central",
+          "Plaza Cubierta",
+          "Aula Magna"
+        ],
+        "hours": "Consulta la cartelera vigente. El horario de taquilla, la apertura de puertas y el inicio de la función son distintos.",
+        "fees": "El precio depende de la función y la localidad. Comprueba la sala, el asiento y las condiciones antes de pagar.",
+        "look": "Cuando se permita entrar, observa los paneles de colores desde un asiento autorizado. Sus distintos tamaños e inclinaciones forman parte de la acústica.",
+        "photo": "Si se autorizan fotos, toma una vista amplia del techo desde tu asiento.",
+        "highlight": "Las nubes acústicas de Calder cuelgan sobre la sala."
+      },
+      "zh": {
+        "name": "中央大学大会堂",
+        "intro": "大会堂内，亚历山大·考尔德的悬挂式声学云板将雕塑与声学设计结合起来。校园外部游线能看剧场环境，云板本身须入厅才能看见。",
+        "walk": "从大学图书馆沿有盖步道走到大会堂门前，先确认观众入口，再按演出或授权参观安排入厅。",
+        "stops": [
+          "中央图书馆",
+          "有盖广场",
+          "大会堂"
+        ],
+        "hours": "以场馆当期节目表为准，售票处营业、观众入场和开演是三个不同时间。",
+        "fees": "票价随演出及座位变化，付款前先核对厅名、座席和退换条件。",
+        "look": "如获准入厅，在指定座位比较彩色板块的尺寸与倾角，留意这些雕塑如何参与礼堂的声学设计。",
+        "photo": "若允许室内摄影，可从自己的座位向上取吊顶广角。",
+        "highlight": "考尔德的声学云板悬挂在观众厅上方。"
+      }
+    }
+  },
+  {
+    "slug": "plaza-venezuela",
+    "address": "Plaza Venezuela, Los Caobos, Caracas, Venezuela",
+    "operator": "Plaza Venezuela",
+    "category": "square",
+    "image": "/nearby/plaza-venezuela.jpg",
+    "source": "https://es.wikipedia.org/wiki/Plaza_Venezuela",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Plaza_Venezuela_Sunset.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Plaza%20Venezuela%2C%20Plaza%20Venezuela%2C%20Los%20Caobos%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Plaza Venezuela",
+        "intro": "Opened in 1940, this square marks a different stage of Caracas’s growth from the colonial centre. The fountain and surrounding traffic make the central space feel like an island within the city.",
+        "walk": "Leave the metro via the square exit, find a pedestrian crossing towards the central space and walk the accessible side of the fountain. Photograph from the pavement, away from the traffic islands.",
+        "stops": [
+          "Plaza Venezuela metro",
+          "Pedestrian crossing",
+          "Fountain"
+        ],
+        "hours": "Plan the outdoor walk in daylight, allowing for civic events and temporary street closures.",
+        "fees": "There is no box office for the public square; adjoining buildings have their own access conditions.",
+        "look": "A wider view places the fountain in its busy city setting. The scene depends on the fountain’s operating schedule, so the urban composition also works when the jets are off.",
+        "photo": "From the fountain perimeter photograph the open centre against the city skyline.",
+        "highlight": "The square illustrates Caracas’s twentieth-century expansion."
+      },
+      "es": {
+        "name": "Plaza Venezuela",
+        "intro": "Inaugurada en 1940, esta plaza refleja una etapa de expansión distinta de la del casco colonial. Entre el tránsito y la fuente, el espacio central se percibe como una isla urbana.",
+        "walk": "Sal del metro hacia la plaza, usa el cruce peatonal al sector central y bordea la parte accesible de la fuente. Fotografía desde la acera, lejos de las islas de tránsito.",
+        "stops": [
+          "Metro Plaza Venezuela",
+          "paso peatonal",
+          "fuente"
+        ],
+        "hours": "Planea el paseo con luz diurna y considera actos cívicos y cortes temporales de calles.",
+        "fees": "El espacio público no tiene taquilla; los edificios vecinos aplican sus propias condiciones.",
+        "look": "Una vista amplia sitúa la fuente dentro del tránsito urbano. Su funcionamiento varía; la composición de la plaza sigue siendo visible sin los chorros.",
+        "photo": "Desde el perímetro de la fuente encuadra el centro abierto con el perfil urbano.",
+        "highlight": "La plaza refleja la expansión caraqueña del siglo XX."
+      },
+      "zh": {
+        "name": "委内瑞拉广场",
+        "intro": "广场于1940年启用，见证了与殖民老城不同阶段的城市扩张。喷泉与周边车道让中央公共空间像城市中的一座小岛。",
+        "walk": "从地铁站广场方向出口出发，经人行横道走向中央区域，沿喷泉开放的一侧步行。从人行道拍摄，避开机动车导流岛。",
+        "stops": [
+          "委内瑞拉广场地铁站",
+          "人行横道",
+          "喷泉"
+        ],
+        "hours": "建议白天步行，遇到市政活动或临时街道管制，依现场开放的通道通行。",
+        "fees": "公共广场没有售票口，周边建筑的入场规则另计。",
+        "look": "广角画面能同时表现喷泉与周边城市车流。喷水取决于运行安排，即使停喷，广场布局也值得观察。",
+        "photo": "在喷泉外围用城市天际线衬托开敞广场。",
+        "highlight": "广场见证20世纪加拉加斯的城市扩张。"
+      }
+    }
+  },
+  {
+    "slug": "parque-del-este",
+    "address": "Avenida Francisco de Miranda, Parque del Este, Caracas, Venezuela",
+    "operator": "Instituto Nacional de Parques (INPARQUES)",
+    "category": "park",
+    "image": "/nearby/parque-del-este.JPG",
+    "source": "https://es.wikipedia.org/wiki/Parque_del_Este_(Costa_Rica)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Parque_del_este_caracas_venezuela_2008.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Parque%20del%20Este%2C%20Avenida%20Francisco%20de%20Miranda%2C%20Parque%20del%20Este%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Parque del Este",
+        "intro": "Parque Generalísimo Francisco de Miranda opened in 1961. Landscape designer Roberto Burle Marx and collaborators shaped open lawns, water and planted areas into contrasting outdoor rooms.",
+        "walk": "Enter from Avenida Francisco de Miranda, choose a signed garden path and pause where the planting gives way to open grass. Use the same gate as a return landmark rather than crossing the avenue midblock.",
+        "stops": [
+          "Francisco de Miranda avenue",
+          "Park gate",
+          "Garden paths"
+        ],
+        "hours": "Use the notice at the gate for the day’s closing time. Rain or maintenance can affect individual paths.",
+        "fees": "Ask the park gate about any charge for special facilities; an activity inside can have separate conditions.",
+        "look": "Follow a transition between open turf and denser planting. That change of enclosure is as important to the design as any single plant.",
+        "photo": "Stand where a garden path opens onto grass to capture Burle Marx’s layered planting.",
+        "highlight": "The park includes a landscape design associated with Roberto Burle Marx."
+      },
+      "es": {
+        "name": "Parque del Este",
+        "intro": "El Parque Generalísimo Francisco de Miranda abrió en 1961. Roberto Burle Marx y sus colaboradores combinaron céspedes, zonas de agua y jardines en ambientes contrastantes.",
+        "walk": "Entra por la avenida Francisco de Miranda, toma una senda señalizada y detente donde el jardín se abre al césped. Usa la misma puerta para el regreso y cruza la avenida por los pasos indicados.",
+        "stops": [
+          "Avenida Francisco de Miranda",
+          "entrada del parque",
+          "jardines"
+        ],
+        "hours": "Consulta en la puerta el cierre del día. La lluvia o el mantenimiento pueden afectar senderos específicos.",
+        "fees": "Consulta en la entrada los cobros por instalaciones especiales; cada actividad puede tener condiciones propias.",
+        "look": "Sigue el paso de un césped abierto a una zona de vegetación densa. El cambio de escala importa tanto como una planta aislada.",
+        "photo": "Busca el punto donde la senda desemboca en césped para ver las capas de vegetación.",
+        "highlight": "El diseño paisajístico está ligado a Roberto Burle Marx."
+      },
+      "zh": {
+        "name": "东部公园",
+        "intro": "公园于1961年开放。景观设计师罗伯托·布雷·马克斯及其团队以草坪、水面和种植区域形成不同层次的户外空间。",
+        "walk": "从弗朗西斯科·德·米兰达大道入口进入，选择有标识的花园小径，在植物让位于草坪的地方停下观察。返程认准同一入口，在指定处过街。",
+        "stops": [
+          "弗朗西斯科·德·米兰达大道",
+          "公园入口",
+          "花园步道"
+        ],
+        "hours": "到入口看当天闭园时间，雨后或维护期间部分小径可能临时停用。",
+        "fees": "到入口询问专用设施收费，园内活动项目可能有独立条件。",
+        "look": "选择从开阔草坪进入密植区域的一段路线。空间围合感的变化，与某一株植物本身同样体现景观设计。",
+        "photo": "在小径通向草坪的交界处取景，展现植物配置层次。",
+        "highlight": "公园景观与布雷·马克斯的设计密切相关。"
+      }
+    }
+  },
+  {
+    "slug": "altamira-square",
+    "address": "Plaza Francia, Altamira, Chacao, Caracas, Venezuela",
+    "operator": "Alcaldía de Chacao",
+    "category": "square",
+    "image": "/nearby/altamira-square.jpg",
+    "source": "https://es.wikipedia.org/wiki/Plaza_Francia_(Caracas)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Plaza_Francia2.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Plaza%20Francia%20%28Caracas%29%2C%20Plaza%20Francia%2C%20Altamira%2C%20Chacao%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Altamira Square",
+        "intro": "The obelisk identifies the former Plaza Altamira, opened in 1945. The Ávila ridge behind it makes this urban space especially legible from the south side.",
+        "walk": "Come up from Altamira metro, walk towards the obelisk, then turn south to look back along its axis. Use pedestrian crossings between the two parts of the square.",
+        "stops": [
+          "Altamira metro",
+          "Obelisk",
+          "Southern half"
+        ],
+        "hours": "Plan the outdoor walk in daylight, allowing for civic events and temporary street closures.",
+        "fees": "There is no box office for the public square; adjoining buildings have their own access conditions.",
+        "look": "Use the obelisk as a fixed point and compare the view from the upper and lower sections. Clouds may hide the ridge without obscuring the square itself.",
+        "photo": "Look north towards the obelisk from the southern edge for the mountain backdrop.",
+        "highlight": "Its central obelisk anchors the Altamira neighbourhood."
+      },
+      "es": {
+        "name": "Plaza Francia (Caracas)",
+        "intro": "El obelisco identifica la antigua plaza Altamira, inaugurada en 1945. Desde el sector sur se entiende bien la relación del monumento con el perfil del Ávila.",
+        "walk": "Sube desde el metro Altamira, camina hacia el obelisco y vuelve al sector sur para mirar sobre su eje. Cruza por los pasos peatonales entre los dos sectores.",
+        "stops": [
+          "Metro Altamira",
+          "obelisco",
+          "sector sur"
+        ],
+        "hours": "Planea el paseo con luz diurna y considera actos cívicos y cortes temporales de calles.",
+        "fees": "El espacio público no tiene taquilla; los edificios vecinos aplican sus propias condiciones.",
+        "look": "Usa el obelisco como referencia y compara los sectores alto y bajo. Las nubes pueden ocultar la montaña sin impedir la lectura de la plaza.",
+        "photo": "Mira al norte desde el borde sur para situar el obelisco ante la montaña.",
+        "highlight": "El obelisco central es una referencia del sector Altamira."
+      },
+      "zh": {
+        "name": "法国广场",
+        "intro": "广场于1945年开放，原称阿尔塔米拉广场，方尖碑是主要标志。从南侧回望，碑体与阿维拉山脊之间的关系尤其清楚。",
+        "walk": "从阿尔塔米拉地铁站上到地面，先走向方尖碑，再到南侧沿轴线回望。广场各区之间使用人行横道。",
+        "stops": [
+          "阿尔塔米拉地铁站",
+          "方尖碑",
+          "广场南侧"
+        ],
+        "hours": "建议白天步行，遇到市政活动或临时街道管制，依现场开放的通道通行。",
+        "fees": "公共广场没有售票口，周边建筑的入场规则另计。",
+        "look": "以方尖碑为固定参照，在广场高低不同的区域各看一次。即使云层遮住山脊，也能观察广场自身的轴线。",
+        "photo": "从南端向北拍，可将山脉作为方尖碑背景。",
+        "highlight": "中央方尖碑是阿尔塔米拉街区的地标。"
+      }
+    }
+  },
+  {
+    "slug": "parque-central-complex",
+    "address": "Parque Central, El Conde, avenida Bolívar, Caracas, Venezuela",
+    "operator": "Parque Central, El Conde",
+    "category": "complex",
+    "image": "/nearby/parque-central-complex.jpg",
+    "source": "https://en.wikipedia.org/wiki/Parque_Central_Complex",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Caracas_Central_Park_2.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Complejo%20Urban%C3%ADstico%20Parque%20Central%2C%20Parque%20Central%2C%20El%20Conde%2C%20avenida%20Bol%C3%ADvar%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Parque Central Complex",
+        "intro": "The paired towers rise over a development combining homes, offices and cultural spaces. The experience at ground level is a network of public passages rather than a single park entrance.",
+        "walk": "Arrive along Avenida Bolívar, identify both towers from the public frontage, then follow the signs towards the cultural concourse. Stand back outside to include both towers in a single frame.",
+        "stops": [
+          "Avenida Bolívar",
+          "Twin towers",
+          "Cultural concourse"
+        ],
+        "hours": "Use the opening hours of the museum, shop or venue you intend to enter; each unit sets its own access.",
+        "fees": "Public passages and paid activities inside the complex have different conditions. Ask the individual venue.",
+        "look": "Stand far enough away to read the towers as a pair. At pavement level the smaller entrances show that offices, homes and museums occupy different parts of the same development.",
+        "photo": "Look from the open frontage along Avenida Bolívar for space between the towers.",
+        "highlight": "The twin towers organise a larger residential and cultural development."
+      },
+      "es": {
+        "name": "Complejo Urbanístico Parque Central",
+        "intro": "Las torres se elevan sobre un conjunto de viviendas, oficinas y espacios culturales. A nivel de calle encontrarás pasos públicos, no una única entrada de parque.",
+        "walk": "Llega por la avenida Bolívar, ubica ambas torres desde el frente público y sigue las señales hacia el sector cultural. Retrocede en el exterior para incluirlas juntas en la foto.",
+        "stops": [
+          "Avenida Bolívar",
+          "torres",
+          "sector cultural"
+        ],
+        "hours": "Consulta el horario del museo, comercio o sala que visitarás; cada espacio gestiona su acceso.",
+        "fees": "Los pasos públicos y las actividades con entrada tienen condiciones distintas. Consulta al recinto correspondiente.",
+        "look": "Toma distancia para ver las torres como pareja. A nivel de acera, los accesos pequeños distinguen oficinas, viviendas y museos del conjunto.",
+        "photo": "Desde la avenida Bolívar busca un punto donde las torres se separen en el encuadre.",
+        "highlight": "Las torres organizan un conjunto residencial y cultural mucho más amplio."
+      },
+      "zh": {
+        "name": "中央公园建筑群",
+        "intro": "双塔耸立在住宅、办公与文化设施组成的综合体上。地面空间由多条公共通道串联，并非进入传统公园的一道大门。",
+        "walk": "由玻利瓦尔大道抵达，在临街公共区域辨认双塔，再依文化区标示步入通道。若要同框拍摄双塔，可回到外侧留出距离。",
+        "stops": [
+          "玻利瓦尔大道",
+          "双塔",
+          "文化区通道"
+        ],
+        "hours": "具体营业时间取决于目的地；博物馆、商业空间和办公场所各自管理。",
+        "fees": "公共通道与综合体内的付费活动分别管理，请向具体场馆询问。",
+        "look": "后退一些更容易完整观察双塔。回到街面，注意不同尺度的入口如何区分办公、居住和博物馆空间。",
+        "photo": "在玻利瓦尔大道开阔处移动至两座塔楼轮廓分离。",
+        "highlight": "双塔是更大居住与文化开发区的一部分。"
+      }
+    }
+  },
+  {
+    "slug": "ibrahim-al-ibrahim-mosque",
+    "address": "Quebrada Honda, parroquia El Recreo, Caracas, Venezuela",
+    "operator": "Mezquita Ibrahim Al-Ibrahim de Caracas",
+    "category": "mosque",
+    "image": "/nearby/ibrahim-al-ibrahim-mosque.jpg",
+    "source": "https://es.wikipedia.org/wiki/Mezquita_Ibrahim_Al-lbrahim",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Mezquita_Ibrahim_Al-Lbrahim_en_Caracas_frente_a_la_Iglesia_San_Charbel.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Mezquita%20Ibrahim%20Al-lbrahim%2C%20Quebrada%20Honda%2C%20parroquia%20El%20Recreo%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Ibrahim al-Ibrahim Mosque",
+        "intro": "The mosque stands in the Quebrada Honda neighbourhood of Caracas. Its dome and minaret can be studied from the street without interrupting worship; the name is also used for a different mosque in Gibraltar.",
+        "walk": "Use the Caracas map pin, approach from the public street and compare the outline of the minaret with the dome. Ask at the entrance before going beyond the public exterior or taking interior photographs.",
+        "stops": [
+          "Quebrada Honda",
+          "Public street",
+          "Mosque entrance"
+        ],
+        "hours": "Prayer times shape access. Ask the mosque for a suitable visiting window and the appropriate entrance.",
+        "fees": "Ask the mosque about visitor arrangements; public exterior viewing does not require a ticket.",
+        "look": "A wide exterior view shows the minaret in relation to nearby buildings. Avoid making worshippers entering or leaving the subject of a photograph.",
+        "photo": "Frame the dome and minaret from the street without photographing a worship queue.",
+        "highlight": "Its minaret is an identifiable part of Quebrada Honda’s skyline."
+      },
+      "es": {
+        "name": "Mezquita Ibrahim Al-lbrahim",
+        "intro": "La mezquita se alza en Quebrada Honda, Caracas. La cúpula y el minarete se ven desde la calle sin interrumpir el culto. Existe otra mezquita de nombre parecido en Gibraltar.",
+        "walk": "Usa el punto de Caracas, acércate por la vía pública y compara la silueta del minarete con la cúpula. Pregunta en el acceso antes de entrar o fotografiar el interior.",
+        "stops": [
+          "Quebrada Honda",
+          "vía pública",
+          "acceso a la mezquita"
+        ],
+        "hours": "Los horarios de oración condicionan el acceso. Consulta a la mezquita un momento adecuado y la entrada correspondiente.",
+        "fees": "Consulta a la mezquita las condiciones para visitantes; observar el exterior desde la calle no requiere entrada.",
+        "look": "Una vista exterior amplia sitúa el minarete junto a los edificios vecinos. Evita que quienes entran o salen de la oración sean el motivo de la foto.",
+        "photo": "Encuadra cúpula y minarete desde la calle sin fotografiar las filas de fieles.",
+        "highlight": "El minarete forma parte reconocible del perfil de Quebrada Honda."
+      },
+      "zh": {
+        "name": "易卜拉欣清真寺",
+        "intro": "清真寺位于加拉加斯的克布拉达翁达街区。街边就能看到穹顶与宣礼塔，不必打扰礼拜。检索地图时须核对城市，直布罗陀另有相似名称的清真寺。",
+        "walk": "使用加拉加斯的地点定位，从公共街道靠近，对比宣礼塔与穹顶的轮廓。入内及拍摄室内前请先询问入口工作人员。",
+        "stops": [
+          "克布拉达翁达街区",
+          "公共街道",
+          "清真寺入口"
+        ],
+        "hours": "礼拜时段决定访客安排，请向清真寺确认适合到访的时间与入口。",
+        "fees": "在公共街道观看外景无需门票，入内参观请先询问清真寺。",
+        "look": "外景宜取宽幅，将宣礼塔与周边建筑一起纳入。不要把进出礼拜的个人作为拍摄主体。",
+        "photo": "从街边将穹顶与宣礼塔同框，避开礼拜队列。",
+        "highlight": "宣礼塔是克布拉达翁达街区可辨认的天际线要素。"
+      }
+    }
+  },
+  {
+    "slug": "paseo-los-proceres",
+    "address": "Paseo Los Próceres, Fuerte Tiuna, Caracas, Venezuela",
+    "operator": "Paseo Los Próceres",
+    "category": "monument",
+    "image": "/nearby/paseo-los-proceres.jpg",
+    "source": "https://es.wikipedia.org/wiki/Paseo_Los_Pr%C3%B3ceres",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Los_Pr%C3%B3ceres%2C_Caracas%2C_Venezuela.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Paseo%20Los%20Pr%C3%B3ceres%2C%20Paseo%20Los%20Pr%C3%B3ceres%2C%20Fuerte%20Tiuna%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Paseo Los Próceres",
+        "intro": "The ceremonial avenue honours independence figures. Monoliths, reliefs and a long axial layout make national history readable as a sequence rather than a single statue.",
+        "walk": "Join the public promenade, follow its central axis to the monument and inspect the reliefs from the pedestrian side. Turn to photograph the full length of the approach from the public area.",
+        "stops": [
+          "Pedestrian promenade",
+          "Monoliths",
+          "Reliefs"
+        ],
+        "hours": "Public access follows the ceremonial programme; verify the open pedestrian area on arrival.",
+        "fees": "Walking the public approach and visiting a controlled interior are separate activities; ask staff at the entrance.",
+        "look": "Look at one relief closely before stepping back to see the paired structures. The change of scale links the carved narrative with the ceremonial avenue.",
+        "photo": "Use the public central axis for a symmetrical view of the monoliths.",
+        "highlight": "The reliefs narrate independence within a ceremonial urban setting."
+      },
+      "es": {
+        "name": "Paseo Los Próceres",
+        "intro": "La avenida ceremonial homenajea a protagonistas de la independencia. Los monolitos, relieves y el largo eje convierten el recorrido en una secuencia histórica.",
+        "walk": "Entra al paseo público, sigue el eje hasta el monumento y observa los relieves desde la zona peatonal. Gira para fotografiar la perspectiva desde el espacio público.",
+        "stops": [
+          "Paseo peatonal",
+          "monolitos",
+          "relieves"
+        ],
+        "hours": "El acceso público depende de los actos ceremoniales; comprueba al llegar el sector peatonal abierto.",
+        "fees": "Recorrer la explanada pública y entrar en un recinto controlado son actividades distintas; consulta al personal de acceso.",
+        "look": "Observa un relieve de cerca y luego retrocede para abarcar el conjunto. Así se relaciona la narración tallada con la escala de la avenida ceremonial.",
+        "photo": "Desde el eje peatonal público encuadra simétricamente los monolitos.",
+        "highlight": "Los relieves narran la independencia en un escenario ceremonial urbano."
+      },
+      "zh": {
+        "name": "独立先驱大道",
+        "intro": "这条礼仪大道纪念独立运动人物。石柱、浮雕与长轴线依次展开，可将民族历史理解为一段行进中的叙事。",
+        "walk": "进入公众开放的步道，沿轴线走向纪念物，从人行区域看浮雕。再回身拍摄长轴透视，留在公共范围内。",
+        "stops": [
+          "人行步道",
+          "石柱纪念物",
+          "浮雕"
+        ],
+        "hours": "开放范围可能随纪念仪式调整，抵达后先确认可步行区域。",
+        "fees": "走公共前庭与进入受管制空间是两项不同活动，入内安排请在入口询问。",
+        "look": "先近看一组浮雕，再退后观察整组纪念构筑物，以两种尺度理解雕刻叙事与仪式大道的关系。",
+        "photo": "从公共步行轴线拍摄两侧石柱的对称关系。",
+        "highlight": "大道的浮雕把独立运动叙事融入城市仪式空间。"
+      }
+    }
+  },
+  {
+    "slug": "quinta-de-anauco",
+    "address": "Quinta de Anauco, San Bernardino, Caracas, Venezuela",
+    "operator": "Museo de Arte Colonial, Quinta de Anauco",
+    "category": "museum",
+    "image": "/nearby/quinta-de-anauco.jpg",
+    "source": "https://es.wikipedia.org/wiki/Quinta_de_Anauco",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Quinta_de_Anauco_%282%29.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Quinta%20de%20Anauco%2C%20Quinta%20de%20Anauco%2C%20San%20Bernardino%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Quinta de Anauco",
+        "intro": "This former country house preserves a sense of Caracas before surrounding districts were built up. The colonial art collection gains meaning from the rooms, patios and domestic scale of the building.",
+        "walk": "Approach through San Bernardino to the marked museum entrance, ask which rooms are open and compare the courtyard with the enclosed galleries. Use a doorway to frame the garden when photography is allowed.",
+        "stops": [
+          "San Bernardino",
+          "Anauco house",
+          "Courtyard"
+        ],
+        "hours": "Ask the museum desk which galleries are open and the last admission time. Exhibition changeovers can affect individual rooms.",
+        "fees": "Check the current exhibition’s admission conditions with the museum before travelling, especially for groups and guided tours.",
+        "look": "The garden and patio are part of the house visit. Compare how a room opens into the patio with the more enclosed display areas.",
+        "photo": "A doorway between patio and gallery gives depth without moving furniture or objects.",
+        "highlight": "A former country house provides the setting for colonial art."
+      },
+      "es": {
+        "name": "Quinta de Anauco",
+        "intro": "Esta antigua casa de campo conserva la escala de Caracas antes de la urbanización del sector. Las salas y patios dan contexto doméstico a la colección de arte colonial.",
+        "walk": "Llega por San Bernardino al acceso del museo, pregunta qué salas abren y compara el patio con las galerías cerradas. Si permiten fotos, encuadra el jardín desde una puerta.",
+        "stops": [
+          "San Bernardino",
+          "Quinta de Anauco",
+          "patio"
+        ],
+        "hours": "Pregunta al museo por las salas abiertas y la última admisión. Los cambios de exposición pueden afectar una sala concreta.",
+        "fees": "Comprueba con el museo las condiciones vigentes de la exposición, sobre todo para grupos y visitas guiadas.",
+        "look": "El jardín y el patio forman parte de la visita. Compara una habitación abierta al patio con las áreas de exposición más cerradas.",
+        "photo": "Un umbral entre patio y galería da profundidad sin mover muebles ni objetos.",
+        "highlight": "Una antigua casa de campo da contexto a las obras coloniales."
+      },
+      "zh": {
+        "name": "阿瑙科庄园",
+        "intro": "庄园早于周边城市街区的开发。殖民艺术藏品放在住宅尺度的房间与庭院之中，参观时既可看器物，也能理解它们原本的生活背景。",
+        "walk": "从圣贝尔纳迪诺街区走到博物馆入口，询问开放展厅，再比较露天庭院与封闭展室。允许拍照时可以门框取景。",
+        "stops": [
+          "圣贝尔纳迪诺街区",
+          "阿瑙科庄园",
+          "庭院"
+        ],
+        "hours": "先向馆方确认开放展厅和最晚入场时间；换展期间部分展室可能单独关闭。",
+        "fees": "出发前向馆方核对当期展览的入场办法，团体预约与导览须单独询问。",
+        "look": "花园与庭院也是宅院参观的一部分。比较面向庭院打开的房间与相对封闭的展区，体会建筑的居住属性。",
+        "photo": "在庭院与廊道之间通过门框构图，不移动家具或陈设。",
+        "highlight": "旧乡间宅院为殖民艺术藏品提供了生活场景。"
+      }
+    }
+  },
+  {
+    "slug": "paseo-el-calvario",
+    "address": "Parque Ezequiel Zamora, El Silencio, Caracas, Venezuela",
+    "operator": "Parque Ezequiel Zamora",
+    "category": "park",
+    "image": "/nearby/paseo-el-calvario.JPG",
+    "source": "https://es.wikipedia.org/wiki/El_Calvario_(Caracas)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:El_Calvario%2C_Caracas%2C_Venezuela.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Parque%20El%20Calvario%2C%20Parque%20Ezequiel%20Zamora%2C%20El%20Silencio%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Paseo El Calvario",
+        "intro": "Also known as El Calvario, this hillside park rises above El Silencio. The grand stairway and changing sightlines make the ascent itself a part of its urban history.",
+        "walk": "Identify the staircase from El Silencio, climb to the first open landing and look back over the street grid before continuing. Use the landings for photographs and keep the steps free.",
+        "stops": [
+          "El Silencio",
+          "Main stairway",
+          "Open landing"
+        ],
+        "hours": "Use the notice at the gate for the day’s closing time. Rain or maintenance can affect individual paths.",
+        "fees": "Ask the park gate about any charge for special facilities; an activity inside can have separate conditions.",
+        "look": "A short ascent still gives a sense of the height difference above El Silencio. Note the view from the first landing before deciding on higher sections.",
+        "photo": "Turn back towards El Silencio from a landing, avoiding the stair traffic.",
+        "highlight": "The hill gives a raised perspective on the western centre."
+      },
+      "es": {
+        "name": "Parque El Calvario",
+        "intro": "Este parque en ladera, también llamado El Calvario, domina El Silencio. La escalinata y los cambios de perspectiva hacen del ascenso parte de la historia urbana.",
+        "walk": "Localiza la escalinata desde El Silencio, sube al primer descanso abierto y mira la trama de calles antes de seguir. Haz fotos desde los descansos sin ocupar los peldaños.",
+        "stops": [
+          "El Silencio",
+          "escalinata",
+          "descanso"
+        ],
+        "hours": "Consulta en la puerta el cierre del día. La lluvia o el mantenimiento pueden afectar senderos específicos.",
+        "fees": "Consulta en la entrada los cobros por instalaciones especiales; cada actividad puede tener condiciones propias.",
+        "look": "Incluso una subida corta permite apreciar el desnivel sobre El Silencio. Mira desde el primer descanso antes de decidir si continúas.",
+        "photo": "Desde un descanso gira hacia El Silencio sin bloquear el tránsito en la escalera.",
+        "highlight": "La colina abre una perspectiva elevada sobre el centro occidental."
+      },
+      "zh": {
+        "name": "埃尔卡尔瓦里奥公园",
+        "intro": "公园又称埃尔卡尔瓦里奥，地势高于埃尔西伦西奥街区。大台阶与上升过程中不断变化的视野，是理解城市地形的重要部分。",
+        "walk": "从埃尔西伦西奥寻找大台阶，先爬到第一个开放平台，回头观察街道格局，再决定是否继续。请在平台拍照，保持台阶畅通。",
+        "stops": [
+          "埃尔西伦西奥街区",
+          "大台阶",
+          "开放平台"
+        ],
+        "hours": "到入口看当天闭园时间，雨后或维护期间部分小径可能临时停用。",
+        "fees": "到入口询问专用设施收费，园内活动项目可能有独立条件。",
+        "look": "即使只上一段台阶，也能体会公园与街区的高差。在第一处平台看过视野后，再决定是否继续向上。",
+        "photo": "在台阶平台回望埃尔西伦西奥，不占用上下行阶梯。",
+        "highlight": "小山提供俯看西部城区的视角。"
+      }
+    }
+  },
+  {
+    "slug": "caracas-athenaeum",
+    "address": "Avenida La Salle, La Colina, Caracas, Venezuela",
+    "operator": "Ateneo de Caracas",
+    "category": "theatre",
+    "image": "/nearby/caracas-athenaeum.jpg",
+    "source": "https://es.wikipedia.org/wiki/Ateneo_de_Caracas",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Caracas_Athenaeum_Building.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Ateneo%20de%20Caracas%2C%20Avenida%20La%20Salle%2C%20La%20Colina%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Caracas Athenaeum",
+        "intro": "The Ateneo is an independent cultural institution offering performances and arts education. Its current La Salle address is important because older references may lead to its former venue in Bellas Artes.",
+        "walk": "Check the performance notice for its venue, approach the La Salle entrance and compare the programme with the room named on your reservation. Use the street frontage for exterior photos.",
+        "stops": [
+          "La Salle avenue",
+          "Ateneo entrance",
+          "Programme venue"
+        ],
+        "hours": "Use the time printed on the venue’s current programme. Box-office opening, doors and curtain time are separate.",
+        "fees": "Prices and seating depend on the specific performance. Check the hall, seat and ticket conditions before paying.",
+        "look": "For a performance visit, use the organiser and venue fields on the programme separately. An Ateneo production may be presented at another address.",
+        "photo": "Photograph the present La Salle entrance to distinguish it from historic venue images.",
+        "highlight": "The institution combines live performance and arts education."
+      },
+      "es": {
+        "name": "Ateneo de Caracas",
+        "intro": "El Ateneo es una institución cultural independiente dedicada a espectáculos y formación artística. Usa la sede de La Salle; algunas referencias antiguas remiten a Bellas Artes.",
+        "walk": "Comprueba la sede en el anuncio, llega al acceso de La Salle y coteja la sala con tu reserva. Toma fotos del exterior desde la acera.",
+        "stops": [
+          "Avenida La Salle",
+          "entrada del Ateneo",
+          "sala programada"
+        ],
+        "hours": "Consulta la cartelera vigente. El horario de taquilla, la apertura de puertas y el inicio de la función son distintos.",
+        "fees": "El precio depende de la función y la localidad. Comprueba la sala, el asiento y las condiciones antes de pagar.",
+        "look": "Consulta por separado el organizador y la sede en la cartelera. Una producción del Ateneo puede presentarse en otra dirección.",
+        "photo": "Fotografía la entrada actual de La Salle para distinguirla de imágenes de la sede anterior.",
+        "highlight": "La institución reúne artes escénicas y formación artística."
+      },
+      "zh": {
+        "name": "加拉加斯雅典娜文化中心",
+        "intro": "雅典娜文化中心是独立运营的演出与艺术教育机构。现址在拉萨列大道，部分旧资料仍标注美术馆街区的原场馆。",
+        "walk": "先看活动公告上的场馆，再步行到拉萨列大道入口，按预订信息核对演出厅。在人行道上拍摄建筑外观。",
+        "stops": [
+          "拉萨列大道",
+          "文化中心入口",
+          "节目指定厅"
+        ],
+        "hours": "以场馆当期节目表为准，售票处营业、观众入场和开演是三个不同时间。",
+        "fees": "票价随演出及座位变化，付款前先核对厅名、座席和退换条件。",
+        "look": "查看演出时应分别核对主办机构与场地；文化中心参与制作的节目也可能在别处上演。",
+        "photo": "可拍下拉萨列大道现址入口，与旧馆历史影像区别。",
+        "highlight": "该机构将演出与艺术教育结合起来。"
+      }
+    }
+  },
+  {
+    "slug": "humboldt-hotel",
+    "address": "Cima del cerro El Ávila, estación superior, Caracas, Venezuela",
+    "operator": "Hotel Humboldt",
+    "category": "hotel",
+    "image": "/nearby/humboldt-hotel.jpg",
+    "source": "https://es.wikipedia.org/wiki/Hotel_Humboldt",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Hotel_Humboldt_de_Caracas.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Hotel%20Humboldt%2C%20Cima%20del%20cerro%20El%20%C3%81vila%2C%20estaci%C3%B3n%20superior%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Humboldt Hotel",
+        "intro": "Opened in 1956, the hotel’s cylindrical tower is a landmark on the ridge above Caracas. A cable-car ticket brings you to the summit area; access to the hotel depends on the hotel’s own arrangements.",
+        "walk": "From the upper cable-car station follow the signed public walk towards the tower, stop at an open viewpoint and ask at the hotel access before proceeding. Allow time for the last return cable car.",
+        "stops": [
+          "Upper station",
+          "Summit walk",
+          "Hotel entrance"
+        ],
+        "hours": "Coordinate the hotel’s visitor arrangements with the summit station’s last return service.",
+        "fees": "Hotel services and the cable car are separate purchases. Verify any booking directly with the hotel.",
+        "look": "On a clear day compare the round tower with the ridgeline. In cloud, concentrate on the silhouette from the public path and keep the station return route in sight.",
+        "photo": "Pause on the public summit walk where the cylindrical tower meets the ridge.",
+        "highlight": "The circular hotel tower dates from the mid-twentieth century."
+      },
+      "es": {
+        "name": "Hotel Humboldt",
+        "intro": "Inaugurado en 1956, el hotel se reconoce por su torre cilíndrica en la cresta. El teleférico lleva al sector de cumbre; el ingreso al hotel depende de sus propias condiciones.",
+        "walk": "Desde la estación superior, sigue el paseo público hacia la torre, detente en un mirador abierto y consulta en el acceso del hotel. Reserva tiempo para la última cabina de regreso.",
+        "stops": [
+          "Estación superior",
+          "paseo de cumbre",
+          "acceso al hotel"
+        ],
+        "hours": "Coordina la visita al hotel con el último servicio de regreso de la estación superior.",
+        "fees": "Los servicios del hotel y el teleférico se pagan por separado. Verifica la reserva con el hotel.",
+        "look": "En un día despejado compara la torre con la cresta. Con neblina, observa su silueta desde el paseo público y mantén reconocible el regreso a la estación.",
+        "photo": "Detente en el paseo público donde se vea la torre cilíndrica contra la cresta.",
+        "highlight": "La torre circular del hotel corresponde a mediados del siglo XX."
+      },
+      "zh": {
+        "name": "洪堡酒店",
+        "intro": "酒店于1956年启用，圆柱形塔楼是山脊的地标。缆车票可抵达山顶区域，酒店内部另有独立的参观与入住安排。",
+        "walk": "从缆车上站沿有标识的公共步道朝塔楼走，在开放观景处停留，到酒店入口再询问入内条件。为末班下山缆车留出时间。",
+        "stops": [
+          "缆车上站",
+          "山顶步道",
+          "酒店入口"
+        ],
+        "hours": "请将酒店参观或预订时间与上站最后一班下行缆车衔接。",
+        "fees": "酒店服务与缆车独立收费，住宿或餐饮预订请向酒店核实。",
+        "look": "晴天可对比圆塔与山脊线。起雾时就在公共步道看近处轮廓，同时留意返回缆车站的方向。",
+        "photo": "在山顶公共步道选圆塔与山脊同框的位置。",
+        "highlight": "酒店圆塔体现了20世纪中期的山顶建筑风貌。"
+      }
+    }
+  },
+  {
+    "slug": "galipan",
+    "address": "San José de Galipán, vertiente norte del Ávila, Caracas, Venezuela",
+    "operator": "San José de Galipán",
+    "category": "village",
+    "image": "/nearby/galipan.jpg",
+    "source": "https://es.wikipedia.org/wiki/Galip%C3%A1n",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Poblado_de_Galip%C3%A1n.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Galip%C3%A1n%2C%20San%20Jos%C3%A9%20de%20Galip%C3%A1n%2C%20vertiente%20norte%20del%20%C3%81vila%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Galipán",
+        "intro": "Galipán lies on the mountain’s northern side. Its cultivated slopes and flower-growing tradition offer a different landscape from the summit station, with homes and working plots along the roads.",
+        "walk": "Arrange the outward and return transfer to San José de Galipán, begin on the public village road and pause at a publicly accessible viewpoint. Stay outside private farms unless invited.",
+        "stops": [
+          "San José de Galipán",
+          "Village road",
+          "Public viewpoint"
+        ],
+        "hours": "Agree on the return transfer before walking. Private shops and farms keep individual hours.",
+        "fees": "Price the uphill transfer, any meal and the return separately, clarifying the number of passengers.",
+        "look": "Treat the cultivated landscape as a working village. A view from the public road can show the relationship between plot, home and slope without entering private land.",
+        "photo": "From the village road frame homes and cultivated slopes; respect doors and fences.",
+        "highlight": "Flower cultivation is part of the settlement’s mountain landscape."
+      },
+      "es": {
+        "name": "Galipán",
+        "intro": "Galipán ocupa la vertiente norte. Las laderas cultivadas y la tradición floricultora ofrecen un paisaje distinto de la estación de cumbre, con viviendas y parcelas en uso.",
+        "walk": "Acuerda la ida y la vuelta a San José de Galipán, recorre la vía pública del poblado y detente en un mirador accesible. Entra a fincas solo con permiso.",
+        "stops": [
+          "San José de Galipán",
+          "camino público",
+          "mirador abierto"
+        ],
+        "hours": "Acuerda la vuelta antes de caminar. Los comercios y las fincas privadas tienen horarios propios.",
+        "fees": "Cotiza por separado el traslado, la comida y la vuelta e indica el número de pasajeros.",
+        "look": "Observa el paisaje cultivado como un poblado en actividad. La vía pública permite ver la relación entre parcela, casa y pendiente sin entrar a terrenos privados.",
+        "photo": "Desde la vía pública encuadra casas y cultivos sin atravesar puertas o cercas.",
+        "highlight": "La floricultura forma parte del paisaje productivo del poblado."
+      },
+      "zh": {
+        "name": "加利潘村",
+        "intro": "加利潘村位于山脉北坡。花卉栽培、沿坡耕地和民居形成了不同于缆车上站的山村风景，路旁很多地块仍在使用。",
+        "walk": "先安排往返圣何塞·德·加利潘的交通，再沿村内公共道路步行，到面向公众的观景点停留。进入农田前须取得同意。",
+        "stops": [
+          "圣何塞·德·加利潘",
+          "村内公路",
+          "开放观景处"
+        ],
+        "hours": "开始步行前先约定返程接送；商店与私人农庄各有开放时间。",
+        "fees": "上山接送、餐食与返程须分别询价，并说明人数。",
+        "look": "这里是仍在生产生活的山村。从公共道路就能观察田地、民居与坡面的关系，不必进入私人土地。",
+        "photo": "从村道拍摄坡上房屋与耕地，不跨越院门或篱笆。",
+        "highlight": "花卉栽培构成山村生产景观的一部分。"
+      }
+    }
+  },
+  {
+    "slug": "el-avila-national-park",
+    "address": "Acceso Sabas Nieves, Altamira, Caracas, Venezuela",
+    "operator": "Instituto Nacional de Parques (INPARQUES)",
+    "category": "mountain",
+    "image": "/nearby/el-avila-national-park.jpg",
+    "source": "https://www.inparques.gob.ve/",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Caracas_desde_la_Monta%C3%B1a.JPG",
+    "map": "https://www.google.com/maps/search/?api=1&query=Parque%20nacional%20El%20%C3%81vila%2C%20Acceso%20Sabas%20Nieves%2C%20Altamira%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "El Ávila National Park",
+        "intro": "Waraira Repano separates Caracas from the Caribbean coast. Walking in from Sabas Nieves is a park experience distinct from the cable-car ride: elevation and available return time determine how far to go.",
+        "walk": "Go to the Sabas Nieves trail entrance, read the day’s notices and choose an authorised turnaround on the signed trail with the ranger. Return by the marked approach rather than using an unfamiliar descent.",
+        "stops": [
+          "Altamira",
+          "Sabas Nieves trailhead",
+          "Agreed turnaround"
+        ],
+        "hours": "Consult INPARQUES for trail conditions and permitted access times on the day; cloud and rain can change visibility.",
+        "fees": "Check trail registration or permit requirements with the ranger post. A cable-car ticket does not cover a guided hike.",
+        "look": "The route begins in the city and gains height quickly. Use a signed pause point to compare the changing skyline; summit photographs are a separate cable-car outing.",
+        "photo": "Use a signed stopping point to photograph Caracas below, keeping the walking line clear.",
+        "highlight": "The trail reveals the transition from city to mountain forest."
+      },
+      "es": {
+        "name": "Parque nacional El Ávila",
+        "intro": "El Waraira Repano separa Caracas del litoral caribeño. Entrar a pie por Sabas Nieves es distinto de subir en cabina: el desnivel y la hora de regreso determinan el alcance del paseo.",
+        "walk": "Ve al acceso Sabas Nieves, lee los avisos del día y acuerda con el guardaparque un punto de retorno en la senda señalizada. Regresa por el acceso marcado.",
+        "stops": [
+          "Altamira",
+          "acceso Sabas Nieves",
+          "punto de retorno"
+        ],
+        "hours": "Consulta a INPARQUES las sendas y horarios autorizados del día. Las nubes y la lluvia pueden reducir la visibilidad.",
+        "fees": "Consulta al puesto de guardaparques los registros o permisos. El boleto del teleférico no incluye una excursión guiada.",
+        "look": "La ruta parte de la ciudad y gana altura. Desde una parada señalizada observa cómo cambia el horizonte; la cumbre en teleférico es otra excursión.",
+        "photo": "Desde una parada señalizada fotografía Caracas sin ocupar el paso de los caminantes.",
+        "highlight": "La senda muestra la transición entre ciudad y bosque de montaña."
+      },
+      "zh": {
+        "name": "阿维拉国家公园",
+        "intro": "瓦赖拉雷帕诺山脉分隔加拉加斯与加勒比海岸。从萨瓦斯涅韦斯入口徒步和乘缆车上山是两种不同体验，爬升幅度和返程时间决定游览范围。",
+        "walk": "到萨瓦斯涅韦斯登山口，阅读当天公告，并和护林人员确认标示路线上的折返点。返程使用已标示步道，不从陌生坡面下山。",
+        "stops": [
+          "阿尔塔米拉",
+          "萨瓦斯涅韦斯登山口",
+          "约定折返点"
+        ],
+        "hours": "请向国家公园管理局确认当天开放步道和准入时段；云雾与降雨可能影响视野。",
+        "fees": "步道登记或许可请问护林站，缆车票不包含向导带队的徒步活动。",
+        "look": "步道从城市边缘开始爬升，可在有标识的停留处观察天际线变化。想拍山顶景色，应另行规划缆车行程。",
+        "photo": "在标示停留点拍摄山下城区，为步行者留出通道。",
+        "highlight": "沿途可观察城市边缘向山地森林过渡。"
+      }
+    }
+  },
+  {
+    "slug": "parque-del-oeste",
+    "address": "Parque Alí Primera, avenida Sucre, Catia, Caracas, Venezuela",
+    "operator": "Instituto Nacional de Parques (INPARQUES)",
+    "category": "park",
+    "image": "/nearby/parque-del-oeste.jpg",
+    "source": "https://inparques.gob.ve/Parques%20de%20Recreacion/ali-primera.html",
+    "photoSource": "https://inparques.gob.ve/Img/imgparquesrecreacionales/Primera/lago.jpg",
+    "map": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20Recreaci%C3%B3n%20Al%C3%AD%20Primera%2C%20Parque%20Al%C3%AD%20Primera%2C%20avenida%20Sucre%2C%20Catia%2C%20Caracas%2C%20Venezuela",
+    "locales": {
+      "en": {
+        "name": "Parque del Oeste",
+        "intro": "Known locally as Parque del Oeste, this recreation area serves the western part of Caracas. The district name Catia distinguishes it from the much better-known Parque del Este.",
+        "walk": "Approach the signed public entrance from the Avenida Sucre side, choose an open interior path and note the gate before turning back. Frame the planted areas from the path rather than stepping into them.",
+        "stops": [
+          "Gato Negro metro",
+          "Park gate",
+          "Lake"
+        ],
+        "hours": "Use the notice at the gate for the day’s closing time. Rain or maintenance can affect individual paths.",
+        "fees": "Ask the park gate about any charge for special facilities; an activity inside can have separate conditions.",
+        "look": "The lake and open-air acoustic shell give two different reasons to pause. Start at the gate opposite Gato Negro metro and ask which paths connect them today.",
+        "photo": "Stand on a public lakeside path for a view over the water towards the park trees.",
+        "highlight": "The lake and acoustic shell give the western park distinct landmarks."
+      },
+      "es": {
+        "name": "Parque de Recreación Alí Primera",
+        "intro": "Conocido como Parque del Oeste, este espacio recreativo sirve al oeste de Caracas. El nombre de Catia ayuda a distinguirlo del Parque del Este.",
+        "walk": "Acércate a la entrada señalizada por el sector de la avenida Sucre, toma un camino abierto y ubica la puerta para el regreso. Fotografía las zonas plantadas sin salir de la senda.",
+        "stops": [
+          "Metro Gato Negro",
+          "entrada del parque",
+          "lago"
+        ],
+        "hours": "Consulta en la puerta el cierre del día. La lluvia o el mantenimiento pueden afectar senderos específicos.",
+        "fees": "Consulta en la entrada los cobros por instalaciones especiales; cada actividad puede tener condiciones propias.",
+        "look": "El lago y la concha acústica ofrecen dos motivos distintos para detenerse. Desde la entrada frente al metro Gato Negro pregunta qué caminos los unen ese día.",
+        "photo": "Desde la senda pública junto al lago encuadra el agua y el arbolado.",
+        "highlight": "El lago y la concha acústica son referencias del parque occidental."
+      },
+      "zh": {
+        "name": "阿里普里梅拉公园",
+        "intro": "这处休闲公园位于加拉加斯西部，当地常称其为西部公园。在地图中加上卡蒂亚街区名，可避免误走到城市另一侧的东部公园。",
+        "walk": "从苏克雷大道一侧寻找有标识的公共入口，记住入口位置后沿开放小路走一段再折返。从步道拍摄种植区，不踏入绿地。",
+        "stops": [
+          "加托内格罗地铁站",
+          "公园入口",
+          "湖畔"
+        ],
+        "hours": "到入口看当天闭园时间，雨后或维护期间部分小径可能临时停用。",
+        "fees": "到入口询问专用设施收费，园内活动项目可能有独立条件。",
+        "look": "湖畔和露天音乐舞台是两处不同的停留点。在加托内格罗地铁站对面的入口询问当天连接两处的开放步道。",
+        "photo": "从湖畔公共步道拍摄水面及对岸树木。",
+        "highlight": "湖面和露天音乐舞台是西部公园的两处地标。"
+      }
+    }
+  }
+]

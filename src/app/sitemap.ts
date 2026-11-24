@@ -1,49 +1,13 @@
-import { MetadataRoute } from 'next';
+import type { MetadataRoute } from "next";
+import { alternatives, domain, locales, places } from "@/nearby/catalog";
 
-export const dynamic = 'force-static';
-
+export const dynamic = "force-static";
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || 'caracascablecar.com'}`;
-
-  return [
-    {
-      url: `${baseUrl}/en`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 1,
-      alternates: {
-        languages: {
-          es: `${baseUrl}/es`,
-          zh: `${baseUrl}/zh`,
-          en: `${baseUrl}/en`,
-        },
-      },
-    },
-    {
-      url: `${baseUrl}/es`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 1,
-      alternates: {
-        languages: {
-          es: `${baseUrl}/es`,
-          zh: `${baseUrl}/zh`,
-          en: `${baseUrl}/en`,
-        },
-      },
-    },
-    {
-      url: `${baseUrl}/zh`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 1,
-      alternates: {
-        languages: {
-          es: `${baseUrl}/es`,
-          zh: `${baseUrl}/zh`,
-          en: `${baseUrl}/en`,
-        },
-      },
-    },
-  ];
+  return ["", ...places.map(p => "/nearby/" + p.slug)].flatMap(path =>
+    locales.map(locale => ({
+      url: domain + "/" + locale + path,
+      alternates: alternatives(path),
+      priority: path ? 0.8 : 1,
+    }))
+  );
 }
